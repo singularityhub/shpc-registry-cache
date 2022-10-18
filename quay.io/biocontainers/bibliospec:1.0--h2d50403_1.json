@@ -1,0 +1,9 @@
+{
+    "BlibBuild": "/usr/local/bin/BlibBuild",
+    "BlibFilter": "/usr/local/bin/BlibFilter",
+    "BlibSearch": "/usr/local/bin/BlibSearch",
+    "BlibToMs2": "/usr/local/bin/BlibToMs2",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate"
+}

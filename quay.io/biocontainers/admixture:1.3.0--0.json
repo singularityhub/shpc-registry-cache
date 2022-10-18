@@ -1,0 +1,6 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "admixture": "/usr/local/bin/admixture",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate"
+}

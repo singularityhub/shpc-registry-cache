@@ -1,0 +1,5 @@
+{
+    "bcalm": "/usr/local/bin/bcalm",
+    "h5cc": "/usr/local/bin/h5cc",
+    "env-execute": "/usr/local/env-execute"
+}

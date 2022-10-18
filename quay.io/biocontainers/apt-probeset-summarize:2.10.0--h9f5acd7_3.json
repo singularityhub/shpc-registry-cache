@@ -1,0 +1,4 @@
+{
+    "apt-probeset-summarize": "/usr/local/bin/apt-probeset-summarize",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "akt": "/usr/local/bin/akt",
+    "env-execute": "/usr/local/env-execute"
+}

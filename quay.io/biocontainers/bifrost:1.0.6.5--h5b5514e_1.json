@@ -1,0 +1,4 @@
+{
+    "Bifrost": "/usr/local/bin/Bifrost",
+    "env-execute": "/usr/local/env-execute"
+}

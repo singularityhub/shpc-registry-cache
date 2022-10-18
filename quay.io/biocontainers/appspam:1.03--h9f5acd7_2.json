@@ -1,0 +1,4 @@
+{
+    "appspam": "/usr/local/bin/appspam",
+    "env-execute": "/usr/local/env-execute"
+}

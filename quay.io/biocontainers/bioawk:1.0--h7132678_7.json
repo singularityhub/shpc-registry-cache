@@ -1,0 +1,4 @@
+{
+    "bioawk": "/usr/local/bin/bioawk",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "bedtk": "/usr/local/bin/bedtk",
+    "env-execute": "/usr/local/env-execute"
+}

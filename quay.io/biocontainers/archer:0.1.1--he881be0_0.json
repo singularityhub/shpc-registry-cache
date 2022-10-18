@@ -1,0 +1,4 @@
+{
+    "archer": "/usr/local/bin/archer",
+    "env-execute": "/usr/local/env-execute"
+}
