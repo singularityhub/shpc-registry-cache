@@ -1,0 +1,4 @@
+{
+    "msamtools": "/usr/local/bin/msamtools",
+    "env-execute": "/usr/local/env-execute"
+}

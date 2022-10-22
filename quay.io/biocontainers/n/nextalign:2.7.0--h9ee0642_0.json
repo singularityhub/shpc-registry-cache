@@ -1,0 +1,4 @@
+{
+    "nextalign": "/usr/local/bin/nextalign",
+    "env-execute": "/usr/local/env-execute"
+}

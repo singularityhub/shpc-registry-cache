@@ -1,0 +1,4 @@
+{
+    "minirmd": "/usr/local/bin/minirmd",
+    "env-execute": "/usr/local/env-execute"
+}

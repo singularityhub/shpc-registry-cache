@@ -1,0 +1,4 @@
+{
+    "minigraph": "/usr/local/bin/minigraph",
+    "env-execute": "/usr/local/env-execute"
+}

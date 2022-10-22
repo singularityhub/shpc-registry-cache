@@ -1,0 +1,4 @@
+{
+    "nanoblaster": "/usr/local/bin/nanoblaster",
+    "env-execute": "/usr/local/env-execute"
+}

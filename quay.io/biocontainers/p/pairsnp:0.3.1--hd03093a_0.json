@@ -1,0 +1,4 @@
+{
+    "pairsnp": "/usr/local/bin/pairsnp",
+    "env-execute": "/usr/local/env-execute"
+}

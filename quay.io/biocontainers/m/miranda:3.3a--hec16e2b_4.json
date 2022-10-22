@@ -1,0 +1,4 @@
+{
+    "miranda": "/usr/local/bin/miranda",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "msisensor2": "/usr/local/bin/msisensor2",
+    "env-execute": "/usr/local/env-execute"
+}

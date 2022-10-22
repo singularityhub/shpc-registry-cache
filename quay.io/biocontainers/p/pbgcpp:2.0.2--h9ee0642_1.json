@@ -1,0 +1,5 @@
+{
+    ".pbgcpp-post-link.sh": "/usr/local/bin/.pbgcpp-post-link.sh",
+    "gcpp": "/usr/local/bin/gcpp",
+    "env-execute": "/usr/local/env-execute"
+}

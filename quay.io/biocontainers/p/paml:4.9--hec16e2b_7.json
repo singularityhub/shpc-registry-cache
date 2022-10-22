@@ -1,0 +1,12 @@
+{
+    "baseml": "/usr/local/bin/baseml",
+    "basemlg": "/usr/local/bin/basemlg",
+    "chi2": "/usr/local/bin/chi2",
+    "codeml": "/usr/local/bin/codeml",
+    "evolver": "/usr/local/bin/evolver",
+    "infinitesites": "/usr/local/bin/infinitesites",
+    "mcmctree": "/usr/local/bin/mcmctree",
+    "pamp": "/usr/local/bin/pamp",
+    "yn00": "/usr/local/bin/yn00",
+    "env-execute": "/usr/local/env-execute"
+}

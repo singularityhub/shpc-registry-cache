@@ -1,0 +1,4 @@
+{
+    "miniprot": "/usr/local/bin/miniprot",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,5 @@
+{
+    ".pbaa-post-link.sh": "/usr/local/bin/.pbaa-post-link.sh",
+    "pbaa": "/usr/local/bin/pbaa",
+    "env-execute": "/usr/local/env-execute"
+}

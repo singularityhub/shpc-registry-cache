@@ -1,0 +1,10 @@
+{
+    "f4ratio": "/usr/local/bin/f4ratio",
+    "fourpop": "/usr/local/bin/fourpop",
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "orientagraph": "/usr/local/bin/orientagraph",
+    "threepop": "/usr/local/bin/threepop",
+    "env-execute": "/usr/local/env-execute"
+}

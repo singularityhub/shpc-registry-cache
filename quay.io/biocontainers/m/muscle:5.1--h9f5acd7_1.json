@@ -1,0 +1,4 @@
+{
+    "muscle": "/usr/local/bin/muscle",
+    "env-execute": "/usr/local/env-execute"
+}

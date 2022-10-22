@@ -1,0 +1,4 @@
+{
+    "pigz": "/usr/local/bin/pigz",
+    "unpigz": "/usr/local/bin/unpigz"
+}

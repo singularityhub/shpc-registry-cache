@@ -1,0 +1,6 @@
+{
+    "NSPDK": "/usr/local/bin/NSPDK",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate"
+}

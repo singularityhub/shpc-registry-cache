@@ -1,0 +1,19 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "chronic": "/usr/local/bin/chronic",
+    "combine": "/usr/local/bin/combine",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "errno": "/usr/local/bin/errno",
+    "ifdata": "/usr/local/bin/ifdata",
+    "ifne": "/usr/local/bin/ifne",
+    "isutf8": "/usr/local/bin/isutf8",
+    "lckdo": "/usr/local/bin/lckdo",
+    "mispipe": "/usr/local/bin/mispipe",
+    "pee": "/usr/local/bin/pee",
+    "sponge": "/usr/local/bin/sponge",
+    "ts": "/usr/local/bin/ts",
+    "vidir": "/usr/local/bin/vidir",
+    "vipe": "/usr/local/bin/vipe",
+    "zrun": "/usr/local/bin/zrun"
+}

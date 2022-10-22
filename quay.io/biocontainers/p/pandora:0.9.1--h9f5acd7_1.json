@@ -1,0 +1,4 @@
+{
+    "pandora": "/usr/local/bin/pandora",
+    "env-execute": "/usr/local/env-execute"
+}

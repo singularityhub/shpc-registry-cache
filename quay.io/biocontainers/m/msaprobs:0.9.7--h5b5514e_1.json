@@ -1,0 +1,4 @@
+{
+    "msaprobs": "/usr/local/bin/msaprobs",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,6 @@
+{
+    "c_rehash": "/usr/local/bin/c_rehash",
+    "openssl": "/usr/local/bin/openssl",
+    "pblat": "/usr/local/bin/pblat",
+    "env-execute": "/usr/local/env-execute"
+}

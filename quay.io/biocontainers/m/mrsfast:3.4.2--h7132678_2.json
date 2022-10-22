@@ -1,0 +1,4 @@
+{
+    "mrsfast": "/usr/local/bin/mrsfast",
+    "env-execute": "/usr/local/env-execute"
+}

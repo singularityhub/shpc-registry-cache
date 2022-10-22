@@ -1,0 +1,5 @@
+{
+    "make": "/usr/local/bin/make",
+    "mmquant": "/usr/local/bin/mmquant",
+    "env-execute": "/usr/local/env-execute"
+}

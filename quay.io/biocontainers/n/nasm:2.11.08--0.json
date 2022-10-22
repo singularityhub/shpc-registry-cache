@@ -1,0 +1,7 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "nasm": "/usr/local/bin/nasm",
+    "ndisasm": "/usr/local/bin/ndisasm"
+}

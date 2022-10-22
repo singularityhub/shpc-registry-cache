@@ -1,0 +1,8 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "my_print_defaults": "/usr/local/bin/my_print_defaults",
+    "mysql_config": "/usr/local/bin/mysql_config",
+    "perror": "/usr/local/bin/perror"
+}

@@ -1,0 +1,4 @@
+{
+    "nxtrim": "/usr/local/bin/nxtrim",
+    "env-execute": "/usr/local/env-execute"
+}

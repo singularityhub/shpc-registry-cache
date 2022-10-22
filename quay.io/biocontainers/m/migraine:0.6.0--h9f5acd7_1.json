@@ -1,0 +1,4 @@
+{
+    "migraine": "/usr/local/bin/migraine",
+    "env-execute": "/usr/local/env-execute"
+}

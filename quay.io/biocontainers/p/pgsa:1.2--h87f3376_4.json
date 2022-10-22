@@ -1,0 +1,5 @@
+{
+    "PgSAgen": "/usr/local/bin/PgSAgen",
+    "PgSAtest": "/usr/local/bin/PgSAtest",
+    "env-execute": "/usr/local/env-execute"
+}

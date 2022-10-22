@@ -1,0 +1,5 @@
+{
+    "ccs": "/usr/local/bin/ccs",
+    "ccs-alt": "/usr/local/bin/ccs-alt",
+    "env-execute": "/usr/local/env-execute"
+}

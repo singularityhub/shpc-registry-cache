@@ -1,0 +1,4 @@
+{
+    "pbsim": "/usr/local/bin/pbsim",
+    "env-execute": "/usr/local/env-execute"
+}

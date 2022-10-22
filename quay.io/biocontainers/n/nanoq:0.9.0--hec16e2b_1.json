@@ -1,0 +1,4 @@
+{
+    "nanoq": "/usr/local/bin/nanoq",
+    "env-execute": "/usr/local/env-execute"
+}

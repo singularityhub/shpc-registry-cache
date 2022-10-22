@@ -1,0 +1,5 @@
+{
+    ".nextclade-post-link.sh": "/usr/local/bin/.nextclade-post-link.sh",
+    "nextclade": "/usr/local/bin/nextclade",
+    "env-execute": "/usr/local/env-execute"
+}

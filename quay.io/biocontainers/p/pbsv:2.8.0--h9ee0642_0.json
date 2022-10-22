@@ -1,0 +1,5 @@
+{
+    ".pbsv-post-link.sh": "/usr/local/bin/.pbsv-post-link.sh",
+    "pbsv": "/usr/local/bin/pbsv",
+    "env-execute": "/usr/local/env-execute"
+}

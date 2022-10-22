@@ -1,0 +1,9 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "oases": "/usr/local/bin/oases",
+    "oases_pipeline.py": "/usr/local/bin/oases_pipeline.py",
+    "velvetg": "/usr/local/bin/velvetg",
+    "velveth": "/usr/local/bin/velveth"
+}

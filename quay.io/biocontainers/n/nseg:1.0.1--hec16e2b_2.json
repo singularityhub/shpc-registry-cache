@@ -1,0 +1,5 @@
+{
+    "nmerge": "/usr/local/bin/nmerge",
+    "nseg": "/usr/local/bin/nseg",
+    "env-execute": "/usr/local/env-execute"
+}

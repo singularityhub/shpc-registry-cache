@@ -1,0 +1,4 @@
+{
+    "mreps": "/usr/local/bin/mreps",
+    "env-execute": "/usr/local/env-execute"
+}
