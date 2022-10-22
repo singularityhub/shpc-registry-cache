@@ -1,0 +1,4 @@
+{
+    "kronik": "/usr/local/bin/kronik",
+    "env-execute": "/usr/local/env-execute"
+}

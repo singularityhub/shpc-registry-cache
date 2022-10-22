@@ -1,0 +1,4 @@
+{
+    "mbgc": "/usr/local/bin/mbgc",
+    "env-execute": "/usr/local/env-execute"
+}

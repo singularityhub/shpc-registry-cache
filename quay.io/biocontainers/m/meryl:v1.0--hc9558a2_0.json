@@ -1,0 +1,6 @@
+{
+    "meryl": "/usr/local/bin/meryl",
+    "meryl-import": "/usr/local/bin/meryl-import",
+    "meryl-lookup": "/usr/local/bin/meryl-lookup",
+    "sequence": "/usr/local/bin/sequence"
+}

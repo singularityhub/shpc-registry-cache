@@ -1,0 +1,12 @@
+{
+    "hapmapConverter": "/usr/local/bin/hapmapConverter",
+    "merlin": "/usr/local/bin/merlin",
+    "merlin-offline": "/usr/local/bin/merlin-offline",
+    "merlin-regress": "/usr/local/bin/merlin-regress",
+    "minx": "/usr/local/bin/minx",
+    "minx-offline": "/usr/local/bin/minx-offline",
+    "pedmerge": "/usr/local/bin/pedmerge",
+    "pedstats": "/usr/local/bin/pedstats",
+    "pedwipe": "/usr/local/bin/pedwipe",
+    "env-execute": "/usr/local/env-execute"
+}

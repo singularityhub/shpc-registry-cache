@@ -1,0 +1,4 @@
+{
+    "maf2synteny": "/usr/local/bin/maf2synteny",
+    "env-execute": "/usr/local/env-execute"
+}

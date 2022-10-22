@@ -1,0 +1,13 @@
+{
+    "c_rehash": "/usr/local/bin/c_rehash",
+    "capnp": "/usr/local/bin/capnp",
+    "capnpc": "/usr/local/bin/capnpc",
+    "capnpc-c++": "/usr/local/bin/capnpc-c++",
+    "capnpc-capnp": "/usr/local/bin/capnpc-capnp",
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "mash": "/usr/local/bin/mash",
+    "openssl": "/usr/local/bin/openssl",
+    "env-execute": "/usr/local/env-execute"
+}

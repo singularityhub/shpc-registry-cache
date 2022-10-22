@@ -1,0 +1,12 @@
+{
+    "LoRMA": "/usr/local/bin/LoRMA",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "lordec-build-SR-graph": "/usr/local/bin/lordec-build-SR-graph",
+    "lordec-correct": "/usr/local/bin/lordec-correct",
+    "lordec-stat": "/usr/local/bin/lordec-stat",
+    "lordec-trim": "/usr/local/bin/lordec-trim",
+    "lordec-trim-split": "/usr/local/bin/lordec-trim-split",
+    "lorma.sh": "/usr/local/bin/lorma.sh"
+}

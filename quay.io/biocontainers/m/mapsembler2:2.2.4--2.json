@@ -1,0 +1,10 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "kissreads": "/usr/local/bin/kissreads",
+    "kissreads_graph": "/usr/local/bin/kissreads_graph",
+    "mapsembler2_extend": "/usr/local/bin/mapsembler2_extend",
+    "mapsembler2_extremities": "/usr/local/bin/mapsembler2_extremities",
+    "run_mapsembler2_pipeline.sh": "/usr/local/bin/run_mapsembler2_pipeline.sh"
+}

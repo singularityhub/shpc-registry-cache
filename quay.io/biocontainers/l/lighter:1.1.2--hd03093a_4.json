@@ -1,0 +1,4 @@
+{
+    "lighter": "/usr/local/bin/lighter",
+    "env-execute": "/usr/local/env-execute"
+}

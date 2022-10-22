@@ -1,0 +1,4 @@
+{
+    "mergeNotCombined": "/usr/local/bin/mergeNotCombined",
+    "env-execute": "/usr/local/env-execute"
+}

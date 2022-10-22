@@ -1,0 +1,4 @@
+{
+    "libsequenceConfig": "/usr/local/bin/libsequenceConfig",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,5 @@
+{
+    "lima": "/usr/local/bin/lima",
+    "lima-undo": "/usr/local/bin/lima-undo",
+    "env-execute": "/usr/local/env-execute"
+}

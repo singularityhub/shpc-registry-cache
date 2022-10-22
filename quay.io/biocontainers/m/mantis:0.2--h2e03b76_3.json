@@ -1,0 +1,4 @@
+{
+    "mantis": "/usr/local/bin/mantis",
+    "env-execute": "/usr/local/env-execute"
+}

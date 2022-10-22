@@ -1,0 +1,4 @@
+{
+    "kssd": "/usr/local/bin/kssd",
+    "env-execute": "/usr/local/env-execute"
+}

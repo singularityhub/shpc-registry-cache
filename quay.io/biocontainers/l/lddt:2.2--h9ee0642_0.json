@@ -1,0 +1,4 @@
+{
+    "lddt": "/usr/local/bin/lddt",
+    "env-execute": "/usr/local/env-execute"
+}

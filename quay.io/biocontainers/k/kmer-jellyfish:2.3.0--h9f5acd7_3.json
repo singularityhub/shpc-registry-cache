@@ -1,0 +1,4 @@
+{
+    "jellyfish": "/usr/local/bin/jellyfish",
+    "env-execute": "/usr/local/env-execute"
+}

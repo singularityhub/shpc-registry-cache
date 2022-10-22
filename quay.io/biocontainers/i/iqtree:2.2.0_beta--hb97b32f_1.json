@@ -1,0 +1,5 @@
+{
+    "iqtree": "/usr/local/bin/iqtree",
+    "iqtree2": "/usr/local/bin/iqtree2",
+    "env-execute": "/usr/local/env-execute"
+}

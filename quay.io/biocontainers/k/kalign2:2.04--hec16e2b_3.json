@@ -1,0 +1,4 @@
+{
+    "kalign": "/usr/local/bin/kalign",
+    "env-execute": "/usr/local/env-execute"
+}

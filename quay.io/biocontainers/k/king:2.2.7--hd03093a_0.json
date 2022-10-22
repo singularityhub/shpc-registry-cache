@@ -1,0 +1,4 @@
+{
+    "king": "/usr/local/bin/king",
+    "env-execute": "/usr/local/env-execute"
+}

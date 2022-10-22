@@ -1,0 +1,4 @@
+{
+    "impute2": "/usr/local/bin/impute2",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,6 @@
+{
+    "lastz": "/usr/local/bin/lastz",
+    "lastz_32": "/usr/local/bin/lastz_32",
+    "lastz_D": "/usr/local/bin/lastz_D",
+    "env-execute": "/usr/local/env-execute"
+}

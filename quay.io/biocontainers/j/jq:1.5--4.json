@@ -1,0 +1,4 @@
+{
+    "jq": "/usr/local/bin/jq",
+    "onig-config": "/usr/local/bin/onig-config"
+}

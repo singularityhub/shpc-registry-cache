@@ -1,0 +1,8 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "jemalloc-config": "/usr/local/bin/jemalloc-config",
+    "jemalloc.sh": "/usr/local/bin/jemalloc.sh",
+    "jeprof": "/usr/local/bin/jeprof"
+}

@@ -1,0 +1,5 @@
+{
+    ".isoseq3-post-link.sh": "/usr/local/bin/.isoseq3-post-link.sh",
+    "isoseq3": "/usr/local/bin/isoseq3",
+    "env-execute": "/usr/local/env-execute"
+}
