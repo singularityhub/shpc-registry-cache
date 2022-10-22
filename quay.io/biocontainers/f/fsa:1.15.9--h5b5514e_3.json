@@ -1,0 +1,14 @@
+{
+    "fsa": "/usr/local/bin/fsa",
+    "gapcleaner": "/usr/local/bin/gapcleaner",
+    "isect_mercator_alignment_gff": "/usr/local/bin/isect_mercator_alignment_gff",
+    "map_coords": "/usr/local/bin/map_coords",
+    "map_gff_coords": "/usr/local/bin/map_gff_coords",
+    "percentid": "/usr/local/bin/percentid",
+    "prot2codon": "/usr/local/bin/prot2codon",
+    "slice_fasta": "/usr/local/bin/slice_fasta",
+    "slice_fasta_gff": "/usr/local/bin/slice_fasta_gff",
+    "slice_mercator_alignment": "/usr/local/bin/slice_mercator_alignment",
+    "translate": "/usr/local/bin/translate",
+    "env-execute": "/usr/local/env-execute"
+}

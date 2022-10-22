@@ -1,0 +1,4 @@
+{
+    "genclust": "/usr/local/bin/genclust",
+    "env-execute": "/usr/local/env-execute"
+}

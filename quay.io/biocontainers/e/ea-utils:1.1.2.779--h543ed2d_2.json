@@ -1,0 +1,16 @@
+{
+    "alc": "/usr/local/bin/alc",
+    "determine-phred": "/usr/local/bin/determine-phred",
+    "fastq-clipper": "/usr/local/bin/fastq-clipper",
+    "fastq-join": "/usr/local/bin/fastq-join",
+    "fastq-mcf": "/usr/local/bin/fastq-mcf",
+    "fastq-multx": "/usr/local/bin/fastq-multx",
+    "fastq-stats": "/usr/local/bin/fastq-stats",
+    "fastx-graph": "/usr/local/bin/fastx-graph",
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "randomFQ": "/usr/local/bin/randomFQ",
+    "sam-stats": "/usr/local/bin/sam-stats",
+    "varcall": "/usr/local/bin/varcall"
+}

@@ -1,0 +1,5 @@
+{
+    "csblast": "/usr/local/bin/csblast",
+    "csbuild": "/usr/local/bin/csbuild",
+    "env-execute": "/usr/local/env-execute"
+}

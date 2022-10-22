@@ -1,0 +1,9 @@
+{
+    "EvoFoldV2": "/usr/local/bin/EvoFoldV2",
+    "EvoFoldV2.sh": "/usr/local/bin/EvoFoldV2.sh",
+    "dfgEval": "/usr/local/bin/dfgEval",
+    "dfgTrain": "/usr/local/bin/dfgTrain",
+    "grammarTrain": "/usr/local/bin/grammarTrain",
+    "multinomial": "/usr/local/bin/multinomial",
+    "env-execute": "/usr/local/env-execute"
+}

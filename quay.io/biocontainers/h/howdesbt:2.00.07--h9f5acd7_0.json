@@ -1,0 +1,5 @@
+{
+    "howdesbt": "/usr/local/bin/howdesbt",
+    "jellyfish": "/usr/local/bin/jellyfish",
+    "env-execute": "/usr/local/env-execute"
+}

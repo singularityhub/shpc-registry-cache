@@ -1,0 +1,5 @@
+{
+    "bamtools": "/usr/local/bin/bamtools",
+    "covtobed": "/usr/local/bin/covtobed",
+    "env-execute": "/usr/local/env-execute"
+}

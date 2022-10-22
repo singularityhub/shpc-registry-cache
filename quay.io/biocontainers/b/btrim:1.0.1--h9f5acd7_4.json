@@ -1,0 +1,4 @@
+{
+    "btrim": "/usr/local/bin/btrim",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "hifiasm_meta": "/usr/local/bin/hifiasm_meta",
+    "env-execute": "/usr/local/env-execute"
+}

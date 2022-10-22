@@ -1,0 +1,14 @@
+{
+    "bl-coverage": "/usr/local/bin/bl-coverage",
+    "bl-exclude": "/usr/local/bin/bl-exclude",
+    "bl-fasta2fastq": "/usr/local/bin/bl-fasta2fastq",
+    "bl-fastq2fasta": "/usr/local/bin/bl-fastq2fasta",
+    "bl-filter-illumina": "/usr/local/bin/bl-filter-illumina",
+    "bl-insert-stats": "/usr/local/bin/bl-insert-stats",
+    "bl-interleave": "/usr/local/bin/bl-interleave",
+    "bl-pair-reads": "/usr/local/bin/bl-pair-reads",
+    "bl-pileup-stats": "/usr/local/bin/bl-pileup-stats",
+    "bl-randomize": "/usr/local/bin/bl-randomize",
+    "bl-threshold": "/usr/local/bin/bl-threshold",
+    "env-execute": "/usr/local/env-execute"
+}

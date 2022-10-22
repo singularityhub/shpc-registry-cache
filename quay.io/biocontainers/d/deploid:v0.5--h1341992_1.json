@@ -1,0 +1,7 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "dEploid": "/usr/local/bin/dEploid",
+    "dEploid_dbg": "/usr/local/bin/dEploid_dbg",
+    "deactivate": "/usr/local/bin/deactivate"
+}

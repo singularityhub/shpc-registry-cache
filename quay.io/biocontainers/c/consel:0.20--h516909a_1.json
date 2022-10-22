@@ -1,0 +1,13 @@
+{
+    "catass": "/usr/local/bin/catass",
+    "catci": "/usr/local/bin/catci",
+    "catmt": "/usr/local/bin/catmt",
+    "catpv": "/usr/local/bin/catpv",
+    "catrep": "/usr/local/bin/catrep",
+    "consel": "/usr/local/bin/consel",
+    "makerep": "/usr/local/bin/makerep",
+    "makermt": "/usr/local/bin/makermt",
+    "randrep": "/usr/local/bin/randrep",
+    "seqmt": "/usr/local/bin/seqmt",
+    "treeass": "/usr/local/bin/treeass"
+}

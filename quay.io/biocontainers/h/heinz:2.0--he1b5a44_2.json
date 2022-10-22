@@ -1,0 +1,10 @@
+{
+    "cbc": "/usr/local/bin/cbc",
+    "clp": "/usr/local/bin/clp",
+    "dimacs-solver": "/usr/local/bin/dimacs-solver",
+    "dimacs-to-lgf": "/usr/local/bin/dimacs-to-lgf",
+    "glpsol": "/usr/local/bin/glpsol",
+    "heinz": "/usr/local/bin/heinz",
+    "lemon-0.x-to-1.x.sh": "/usr/local/bin/lemon-0.x-to-1.x.sh",
+    "lgf-gen": "/usr/local/bin/lgf-gen"
+}

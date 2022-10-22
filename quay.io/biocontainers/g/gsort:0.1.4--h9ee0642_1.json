@@ -1,0 +1,4 @@
+{
+    "gsort": "/usr/local/bin/gsort",
+    "env-execute": "/usr/local/env-execute"
+}

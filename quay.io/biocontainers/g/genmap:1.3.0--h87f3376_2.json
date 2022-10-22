@@ -1,0 +1,4 @@
+{
+    "genmap": "/usr/local/bin/genmap",
+    "env-execute": "/usr/local/env-execute"
+}

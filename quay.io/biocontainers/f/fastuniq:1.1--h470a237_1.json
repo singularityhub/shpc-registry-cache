@@ -1,0 +1,6 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "fastuniq": "/usr/local/bin/fastuniq"
+}

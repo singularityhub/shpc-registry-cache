@@ -1,0 +1,4 @@
+{
+    "clearcut": "/usr/local/bin/clearcut",
+    "env-execute": "/usr/local/env-execute"
+}

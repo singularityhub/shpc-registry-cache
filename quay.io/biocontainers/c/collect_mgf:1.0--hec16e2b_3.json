@@ -1,0 +1,4 @@
+{
+    "collect_mgf": "/usr/local/bin/collect_mgf",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "fade": "/usr/local/bin/fade",
+    "env-execute": "/usr/local/env-execute"
+}

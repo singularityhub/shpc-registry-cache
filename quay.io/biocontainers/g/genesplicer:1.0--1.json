@@ -1,0 +1,7 @@
+{
+    ".genesplicer-post-link.sh": "/usr/local/bin/.genesplicer-post-link.sh",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "genesplicer": "/usr/local/bin/genesplicer"
+}

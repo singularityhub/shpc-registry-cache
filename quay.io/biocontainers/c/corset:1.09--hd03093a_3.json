@@ -1,0 +1,5 @@
+{
+    "corset": "/usr/local/bin/corset",
+    "corset_fasta_ID_changer": "/usr/local/bin/corset_fasta_ID_changer",
+    "env-execute": "/usr/local/env-execute"
+}

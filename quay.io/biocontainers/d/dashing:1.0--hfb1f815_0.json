@@ -1,0 +1,4 @@
+{
+    "dashing": "/usr/local/bin/dashing",
+    "env-execute": "/usr/local/env-execute"
+}

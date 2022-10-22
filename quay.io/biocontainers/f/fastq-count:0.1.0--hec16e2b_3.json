@@ -1,0 +1,4 @@
+{
+    "fastq-count": "/usr/local/bin/fastq-count",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "seqtk": "/usr/local/bin/seqtk",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "gappa": "/usr/local/bin/gappa",
+    "env-execute": "/usr/local/env-execute"
+}

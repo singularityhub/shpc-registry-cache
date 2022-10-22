@@ -1,0 +1,10 @@
+{
+    "cath-assign-domains": "/usr/local/bin/cath-assign-domains",
+    "cath-cluster": "/usr/local/bin/cath-cluster",
+    "cath-map-clusters": "/usr/local/bin/cath-map-clusters",
+    "cath-refine-align": "/usr/local/bin/cath-refine-align",
+    "cath-resolve-hits": "/usr/local/bin/cath-resolve-hits",
+    "cath-score-align": "/usr/local/bin/cath-score-align",
+    "cath-ssap": "/usr/local/bin/cath-ssap",
+    "cath-superpose": "/usr/local/bin/cath-superpose"
+}

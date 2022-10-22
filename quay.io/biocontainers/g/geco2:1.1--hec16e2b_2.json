@@ -1,0 +1,5 @@
+{
+    "GeCo2": "/usr/local/bin/GeCo2",
+    "GeDe2": "/usr/local/bin/GeDe2",
+    "env-execute": "/usr/local/env-execute"
+}

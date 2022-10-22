@@ -1,0 +1,6 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "cortex_con_31": "/usr/local/bin/cortex_con_31",
+    "deactivate": "/usr/local/bin/deactivate"
+}

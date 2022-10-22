@@ -1,0 +1,15 @@
+{
+    "HPC.daligner": "/usr/local/bin/HPC.daligner",
+    "LAcat": "/usr/local/bin/LAcat",
+    "LAcheck": "/usr/local/bin/LAcheck",
+    "LAdump": "/usr/local/bin/LAdump",
+    "LAindex": "/usr/local/bin/LAindex",
+    "LAmerge": "/usr/local/bin/LAmerge",
+    "LAshow": "/usr/local/bin/LAshow",
+    "LAsort": "/usr/local/bin/LAsort",
+    "LAsplit": "/usr/local/bin/LAsplit",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "daligner": "/usr/local/bin/daligner",
+    "deactivate": "/usr/local/bin/deactivate"
+}

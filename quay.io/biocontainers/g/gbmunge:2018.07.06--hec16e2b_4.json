@@ -1,0 +1,4 @@
+{
+    "gbmunge": "/usr/local/bin/gbmunge",
+    "env-execute": "/usr/local/env-execute"
+}

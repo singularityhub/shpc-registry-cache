@@ -1,0 +1,5 @@
+{
+    "defiant": "/usr/local/bin/defiant",
+    "roi": "/usr/local/bin/roi",
+    "env-execute": "/usr/local/env-execute"
+}

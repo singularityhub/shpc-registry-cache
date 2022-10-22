@@ -1,0 +1,4 @@
+{
+    "count_constant_sites": "/usr/local/bin/count_constant_sites",
+    "env-execute": "/usr/local/env-execute"
+}

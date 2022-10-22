@@ -1,0 +1,4 @@
+{
+    "elprep": "/usr/local/bin/elprep",
+    "env-execute": "/usr/local/env-execute"
+}

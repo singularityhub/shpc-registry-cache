@@ -1,0 +1,4 @@
+{
+    "gofasta": "/usr/local/bin/gofasta",
+    "env-execute": "/usr/local/env-execute"
+}

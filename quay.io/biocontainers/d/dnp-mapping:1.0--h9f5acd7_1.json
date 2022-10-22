@@ -1,0 +1,4 @@
+{
+    "dnp-mapping": "/usr/local/bin/dnp-mapping",
+    "env-execute": "/usr/local/env-execute"
+}

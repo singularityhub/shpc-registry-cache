@@ -1,0 +1,13 @@
+{
+    "ambtest": "/usr/local/bin/ambtest",
+    "conus_compare": "/usr/local/bin/conus_compare",
+    "conus_fold": "/usr/local/bin/conus_fold",
+    "conus_train": "/usr/local/bin/conus_train",
+    "findopt": "/usr/local/bin/findopt",
+    "pocheck": "/usr/local/bin/pocheck",
+    "reorder": "/usr/local/bin/reorder",
+    "scheck": "/usr/local/bin/scheck",
+    "stk2ct": "/usr/local/bin/stk2ct",
+    "weedamb": "/usr/local/bin/weedamb",
+    "env-execute": "/usr/local/env-execute"
+}

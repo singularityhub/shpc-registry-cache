@@ -1,0 +1,4 @@
+{
+    "deBWT": "/usr/local/bin/deBWT",
+    "env-execute": "/usr/local/env-execute"
+}

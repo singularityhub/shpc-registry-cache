@@ -1,0 +1,4 @@
+{
+    "fastq_pair": "/usr/local/bin/fastq_pair",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "crux": "/usr/local/bin/crux",
+    "env-execute": "/usr/local/env-execute"
+}

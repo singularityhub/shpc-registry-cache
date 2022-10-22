@@ -1,0 +1,4 @@
+{
+    "go": "/usr/local/bin/go",
+    "gofmt": "/usr/local/bin/gofmt"
+}

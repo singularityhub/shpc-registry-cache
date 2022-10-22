@@ -1,0 +1,6 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "csvtk": "/usr/local/bin/csvtk",
+    "deactivate": "/usr/local/bin/deactivate"
+}

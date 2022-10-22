@@ -1,0 +1,4 @@
+{
+    "fsm-lite": "/usr/local/bin/fsm-lite",
+    "env-execute": "/usr/local/env-execute"
+}

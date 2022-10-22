@@ -1,0 +1,4 @@
+{
+    "express": "/usr/local/bin/express",
+    "env-execute": "/usr/local/env-execute"
+}

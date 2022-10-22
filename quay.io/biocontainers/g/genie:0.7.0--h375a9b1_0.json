@@ -1,0 +1,4 @@
+{
+    "bolt": "/usr/local/bin/bolt",
+    "genie": "/usr/local/bin/genie"
+}

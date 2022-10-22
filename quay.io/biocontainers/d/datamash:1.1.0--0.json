@@ -1,0 +1,6 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "datamash": "/usr/local/bin/datamash",
+    "deactivate": "/usr/local/bin/deactivate"
+}

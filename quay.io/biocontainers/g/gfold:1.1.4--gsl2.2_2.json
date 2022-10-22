@@ -1,0 +1,9 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "gfold": "/usr/local/bin/gfold",
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist"
+}

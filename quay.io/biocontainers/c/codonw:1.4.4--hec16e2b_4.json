@@ -1,0 +1,22 @@
+{
+    "aau": "/usr/local/bin/aau",
+    "base3s": "/usr/local/bin/base3s",
+    "bases": "/usr/local/bin/bases",
+    "cai": "/usr/local/bin/cai",
+    "cbi": "/usr/local/bin/cbi",
+    "codonw": "/usr/local/bin/codonw",
+    "cu": "/usr/local/bin/cu",
+    "cutab": "/usr/local/bin/cutab",
+    "cutot": "/usr/local/bin/cutot",
+    "dinuc": "/usr/local/bin/dinuc",
+    "enc": "/usr/local/bin/enc",
+    "fop": "/usr/local/bin/fop",
+    "gc": "/usr/local/bin/gc",
+    "gc3s": "/usr/local/bin/gc3s",
+    "raau": "/usr/local/bin/raau",
+    "reader": "/usr/local/bin/reader",
+    "rscu": "/usr/local/bin/rscu",
+    "tidy": "/usr/local/bin/tidy",
+    "transl": "/usr/local/bin/transl",
+    "env-execute": "/usr/local/env-execute"
+}

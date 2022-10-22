@@ -1,0 +1,15 @@
+{
+    "fastq-grep": "/usr/local/bin/fastq-grep",
+    "fastq-kmers": "/usr/local/bin/fastq-kmers",
+    "fastq-match": "/usr/local/bin/fastq-match",
+    "fastq-qscale": "/usr/local/bin/fastq-qscale",
+    "fastq-qual": "/usr/local/bin/fastq-qual",
+    "fastq-qualadj": "/usr/local/bin/fastq-qualadj",
+    "fastq-sample": "/usr/local/bin/fastq-sample",
+    "fastq-sort": "/usr/local/bin/fastq-sort",
+    "fastq-uniq": "/usr/local/bin/fastq-uniq",
+    "pcre-config": "/usr/local/bin/pcre-config",
+    "pcregrep": "/usr/local/bin/pcregrep",
+    "pcretest": "/usr/local/bin/pcretest",
+    "env-execute": "/usr/local/env-execute"
+}

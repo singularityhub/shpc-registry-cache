@@ -1,0 +1,4 @@
+{
+    "dehomopolymerate": "/usr/local/bin/dehomopolymerate",
+    "env-execute": "/usr/local/env-execute"
+}

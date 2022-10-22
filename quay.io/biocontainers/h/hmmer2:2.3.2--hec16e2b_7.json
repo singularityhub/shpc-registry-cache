@@ -1,0 +1,12 @@
+{
+    "hmmalign2": "/usr/local/bin/hmmalign2",
+    "hmmbuild2": "/usr/local/bin/hmmbuild2",
+    "hmmcalibrate2": "/usr/local/bin/hmmcalibrate2",
+    "hmmconvert2": "/usr/local/bin/hmmconvert2",
+    "hmmemit2": "/usr/local/bin/hmmemit2",
+    "hmmfetch2": "/usr/local/bin/hmmfetch2",
+    "hmmindex2": "/usr/local/bin/hmmindex2",
+    "hmmpfam2": "/usr/local/bin/hmmpfam2",
+    "hmmsearch2": "/usr/local/bin/hmmsearch2",
+    "env-execute": "/usr/local/env-execute"
+}

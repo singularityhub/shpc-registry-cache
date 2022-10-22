@@ -1,0 +1,4 @@
+{
+    "famsa": "/usr/local/bin/famsa",
+    "env-execute": "/usr/local/env-execute"
+}

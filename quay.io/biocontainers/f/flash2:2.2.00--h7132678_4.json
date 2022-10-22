@@ -1,0 +1,4 @@
+{
+    "flash2": "/usr/local/bin/flash2",
+    "env-execute": "/usr/local/env-execute"
+}

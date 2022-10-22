@@ -1,0 +1,4 @@
+{
+    "fingerPRINTScan": "/usr/local/bin/fingerPRINTScan",
+    "env-execute": "/usr/local/env-execute"
+}

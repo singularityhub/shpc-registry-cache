@@ -1,0 +1,4 @@
+{
+    "estscan": "/usr/local/bin/estscan",
+    "env-execute": "/usr/local/env-execute"
+}

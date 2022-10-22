@@ -1,0 +1,11 @@
+{
+    "bstats": "/usr/local/bin/bstats",
+    "comppair": "/usr/local/bin/comppair",
+    "conus_compare": "/usr/local/bin/conus_compare",
+    "conus_train": "/usr/local/bin/conus_train",
+    "pModel": "/usr/local/bin/pModel",
+    "scompare": "/usr/local/bin/scompare",
+    "sfold": "/usr/local/bin/sfold",
+    "strain_ml": "/usr/local/bin/strain_ml",
+    "env-execute": "/usr/local/env-execute"
+}

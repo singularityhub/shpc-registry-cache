@@ -1,0 +1,4 @@
+{
+    "groot": "/usr/local/bin/groot",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,6 @@
+{
+    "binning": "/usr/local/bin/binning",
+    "clame": "/usr/local/bin/clame",
+    "genFm9": "/usr/local/bin/genFm9",
+    "mapping": "/usr/local/bin/mapping"
+}

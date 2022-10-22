@@ -1,0 +1,7 @@
+{
+    "MS-comp-taxa": "/usr/local/bin/MS-comp-taxa",
+    "MS-comp-taxa-dynamic": "/usr/local/bin/MS-comp-taxa-dynamic",
+    "MS-make-ref": "/usr/local/bin/MS-make-ref",
+    "MS-single-to-table": "/usr/local/bin/MS-single-to-table",
+    "MS-table-to-single": "/usr/local/bin/MS-table-to-single"
+}

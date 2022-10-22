@@ -1,0 +1,4 @@
+{
+    "colord": "/usr/local/bin/colord",
+    "env-execute": "/usr/local/env-execute"
+}

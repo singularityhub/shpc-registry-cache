@@ -1,0 +1,9 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "e-PCR": "/usr/local/bin/e-PCR",
+    "fahash": "/usr/local/bin/fahash",
+    "famap": "/usr/local/bin/famap",
+    "re-PCR": "/usr/local/bin/re-PCR"
+}

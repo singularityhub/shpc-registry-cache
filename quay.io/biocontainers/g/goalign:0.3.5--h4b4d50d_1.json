@@ -1,0 +1,5 @@
+{
+    "goalign": "/usr/local/bin/goalign",
+    "goalign_test.sh": "/usr/local/bin/goalign_test.sh",
+    "env-execute": "/usr/local/env-execute"
+}

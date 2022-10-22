@@ -1,0 +1,4 @@
+{
+    "cgmlst-dists": "/usr/local/bin/cgmlst-dists",
+    "env-execute": "/usr/local/env-execute"
+}

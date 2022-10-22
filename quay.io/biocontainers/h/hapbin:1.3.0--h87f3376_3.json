@@ -1,0 +1,6 @@
+{
+    "ehhbin": "/usr/local/bin/ehhbin",
+    "hapbinconv": "/usr/local/bin/hapbinconv",
+    "xpehhbin": "/usr/local/bin/xpehhbin",
+    "env-execute": "/usr/local/env-execute"
+}

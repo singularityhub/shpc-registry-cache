@@ -1,0 +1,4 @@
+{
+    "drive": "/usr/local/bin/drive",
+    "env-execute": "/usr/local/env-execute"
+}

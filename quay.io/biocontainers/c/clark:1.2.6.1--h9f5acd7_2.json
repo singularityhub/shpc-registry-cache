@@ -1,0 +1,20 @@
+{
+    "CLARK": "/usr/local/bin/CLARK",
+    "CLARK-S": "/usr/local/bin/CLARK-S",
+    "CLARK-l": "/usr/local/bin/CLARK-l",
+    "converter": "/usr/local/bin/converter",
+    "dscriptMaker": "/usr/local/bin/dscriptMaker",
+    "exeSeq": "/usr/local/bin/exeSeq",
+    "extractSeqs": "/usr/local/bin/extractSeqs",
+    "getAbundance": "/usr/local/bin/getAbundance",
+    "getAccssnTaxID": "/usr/local/bin/getAccssnTaxID",
+    "getConfidenceDensity": "/usr/local/bin/getConfidenceDensity",
+    "getGammaDensity": "/usr/local/bin/getGammaDensity",
+    "getTargetSpecificKmersStat": "/usr/local/bin/getTargetSpecificKmersStat",
+    "getTargetsDef": "/usr/local/bin/getTargetsDef",
+    "getfilesToTaxNodes": "/usr/local/bin/getfilesToTaxNodes",
+    "iconv": "/usr/local/bin/iconv",
+    "makeSummaryTables": "/usr/local/bin/makeSummaryTables",
+    "tar": "/usr/local/bin/tar",
+    "env-execute": "/usr/local/env-execute"
+}

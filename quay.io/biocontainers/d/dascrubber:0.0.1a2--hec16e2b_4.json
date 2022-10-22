@@ -1,0 +1,11 @@
+{
+    "DASedit": "/usr/local/bin/DASedit",
+    "DASmap": "/usr/local/bin/DASmap",
+    "DASpatch": "/usr/local/bin/DASpatch",
+    "DASqv": "/usr/local/bin/DASqv",
+    "DASrealign": "/usr/local/bin/DASrealign",
+    "DAStrim": "/usr/local/bin/DAStrim",
+    "REPqv": "/usr/local/bin/REPqv",
+    "REPtrim": "/usr/local/bin/REPtrim",
+    "env-execute": "/usr/local/env-execute"
+}

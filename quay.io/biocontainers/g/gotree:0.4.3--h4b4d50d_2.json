@@ -1,0 +1,5 @@
+{
+    "gotree": "/usr/local/bin/gotree",
+    "gotree_test.sh": "/usr/local/bin/gotree_test.sh",
+    "env-execute": "/usr/local/env-execute"
+}

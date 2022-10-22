@@ -1,0 +1,4 @@
+{
+    "chromap": "/usr/local/bin/chromap",
+    "env-execute": "/usr/local/env-execute"
+}

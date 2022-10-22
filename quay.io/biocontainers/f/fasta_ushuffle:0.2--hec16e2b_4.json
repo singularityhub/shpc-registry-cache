@@ -1,0 +1,5 @@
+{
+    "fasta_ushuffle": "/usr/local/bin/fasta_ushuffle",
+    "ushuffle": "/usr/local/bin/ushuffle",
+    "env-execute": "/usr/local/env-execute"
+}
