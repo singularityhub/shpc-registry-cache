@@ -1,0 +1,8 @@
+{
+    "qconvex": "/usr/local/bin/qconvex",
+    "qdelaunay": "/usr/local/bin/qdelaunay",
+    "qhalf": "/usr/local/bin/qhalf",
+    "qhull": "/usr/local/bin/qhull",
+    "qvoronoi": "/usr/local/bin/qvoronoi",
+    "rbox": "/usr/local/bin/rbox"
+}

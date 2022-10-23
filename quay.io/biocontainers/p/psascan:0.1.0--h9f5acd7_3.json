@@ -1,0 +1,4 @@
+{
+    "psascan": "/usr/local/bin/psascan",
+    "env-execute": "/usr/local/env-execute"
+}

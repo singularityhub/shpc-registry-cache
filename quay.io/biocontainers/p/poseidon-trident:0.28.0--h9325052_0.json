@@ -1,0 +1,4 @@
+{
+    "trident": "/usr/local/bin/trident",
+    "env-execute": "/usr/local/env-execute"
+}

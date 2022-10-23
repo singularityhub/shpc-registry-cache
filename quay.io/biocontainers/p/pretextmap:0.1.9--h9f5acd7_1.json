@@ -1,0 +1,9 @@
+{
+    "PretextMap": "/usr/local/bin/PretextMap",
+    "PretextMap.avx": "/usr/local/bin/PretextMap.avx",
+    "PretextMap.avx2": "/usr/local/bin/PretextMap.avx2",
+    "PretextMap.noext": "/usr/local/bin/PretextMap.noext",
+    "PretextMap.sse41": "/usr/local/bin/PretextMap.sse41",
+    "PretextMap.sse42": "/usr/local/bin/PretextMap.sse42",
+    "env-execute": "/usr/local/env-execute"
+}

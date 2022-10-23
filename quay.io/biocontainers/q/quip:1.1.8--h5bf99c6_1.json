@@ -1,0 +1,8 @@
+{
+    "bammd5": "/usr/local/bin/bammd5",
+    "fastqmd5": "/usr/local/bin/fastqmd5",
+    "quip": "/usr/local/bin/quip",
+    "quipcat": "/usr/local/bin/quipcat",
+    "unquip": "/usr/local/bin/unquip",
+    "env-execute": "/usr/local/env-execute"
+}

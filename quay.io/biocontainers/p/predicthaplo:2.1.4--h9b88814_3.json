@@ -1,0 +1,4 @@
+{
+    "predicthaplo": "/usr/local/bin/predicthaplo",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,13 @@
+{
+    "calcuts": "/usr/local/bin/calcuts",
+    "get_seqs": "/usr/local/bin/get_seqs",
+    "k8": "/usr/local/bin/k8",
+    "minimap2": "/usr/local/bin/minimap2",
+    "ngscstat": "/usr/local/bin/ngscstat",
+    "paftools.js": "/usr/local/bin/paftools.js",
+    "pbcstat": "/usr/local/bin/pbcstat",
+    "purge_dups": "/usr/local/bin/purge_dups",
+    "sdust": "/usr/local/bin/sdust",
+    "split_fa": "/usr/local/bin/split_fa",
+    "env-execute": "/usr/local/env-execute"
+}

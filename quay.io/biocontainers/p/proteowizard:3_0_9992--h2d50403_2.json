@@ -1,0 +1,22 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "chainsaw": "/usr/local/bin/chainsaw",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "idcat": "/usr/local/bin/idcat",
+    "idconvert": "/usr/local/bin/idconvert",
+    "msaccess": "/usr/local/bin/msaccess",
+    "msbenchmark": "/usr/local/bin/msbenchmark",
+    "mscat": "/usr/local/bin/mscat",
+    "msconvert": "/usr/local/bin/msconvert",
+    "msdiff": "/usr/local/bin/msdiff",
+    "msdir": "/usr/local/bin/msdir",
+    "msistats": "/usr/local/bin/msistats",
+    "mspicture": "/usr/local/bin/mspicture",
+    "peakaboo": "/usr/local/bin/peakaboo",
+    "pepcat": "/usr/local/bin/pepcat",
+    "pepsum": "/usr/local/bin/pepsum",
+    "qtofpeakpicker": "/usr/local/bin/qtofpeakpicker",
+    "sldout": "/usr/local/bin/sldout",
+    "txt2mzml": "/usr/local/bin/txt2mzml"
+}

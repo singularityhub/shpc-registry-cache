@@ -1,0 +1,4 @@
+{
+    "probconsRNA": "/usr/local/bin/probconsRNA",
+    "env-execute": "/usr/local/env-execute"
+}

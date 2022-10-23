@@ -1,0 +1,4 @@
+{
+    "prophasm": "/usr/local/bin/prophasm",
+    "env-execute": "/usr/local/env-execute"
+}

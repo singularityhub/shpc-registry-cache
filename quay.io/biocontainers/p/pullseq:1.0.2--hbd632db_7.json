@@ -1,0 +1,8 @@
+{
+    "pcre-config": "/usr/local/bin/pcre-config",
+    "pcregrep": "/usr/local/bin/pcregrep",
+    "pcretest": "/usr/local/bin/pcretest",
+    "pullseq": "/usr/local/bin/pullseq",
+    "seqdiff": "/usr/local/bin/seqdiff",
+    "env-execute": "/usr/local/env-execute"
+}

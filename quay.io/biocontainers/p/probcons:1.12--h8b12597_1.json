@@ -1,0 +1,4 @@
+{
+    "compare": "/usr/local/bin/compare",
+    "probcons": "/usr/local/bin/probcons"
+}

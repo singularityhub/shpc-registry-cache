@@ -1,0 +1,18 @@
+{
+    "bl2seq": "/usr/local/bin/bl2seq",
+    "blastall": "/usr/local/bin/blastall",
+    "blastclust": "/usr/local/bin/blastclust",
+    "blastpgp": "/usr/local/bin/blastpgp",
+    "copymat": "/usr/local/bin/copymat",
+    "fastacmd": "/usr/local/bin/fastacmd",
+    "formatdb": "/usr/local/bin/formatdb",
+    "formatrpsdb": "/usr/local/bin/formatrpsdb",
+    "impala": "/usr/local/bin/impala",
+    "make_pscores.pl": "/usr/local/bin/make_pscores.pl",
+    "makemat": "/usr/local/bin/makemat",
+    "megablast": "/usr/local/bin/megablast",
+    "poa": "/usr/local/bin/poa",
+    "rpsblast": "/usr/local/bin/rpsblast",
+    "seedtop": "/usr/local/bin/seedtop",
+    "env-execute": "/usr/local/env-execute"
+}
