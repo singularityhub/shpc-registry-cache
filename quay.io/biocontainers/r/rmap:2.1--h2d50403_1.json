@@ -1,0 +1,18 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "bedoverlap": "/usr/local/bin/bedoverlap",
+    "binreads": "/usr/local/bin/binreads",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "deadzones": "/usr/local/bin/deadzones",
+    "extractseq": "/usr/local/bin/extractseq",
+    "mapsifter": "/usr/local/bin/mapsifter",
+    "rmap": "/usr/local/bin/rmap",
+    "rmap-pe": "/usr/local/bin/rmap-pe",
+    "rmapbs": "/usr/local/bin/rmapbs",
+    "rmapbs-pe": "/usr/local/bin/rmapbs-pe",
+    "sigoverlap": "/usr/local/bin/sigoverlap",
+    "simreads": "/usr/local/bin/simreads",
+    "simreadsbs": "/usr/local/bin/simreadsbs",
+    "simreadspe": "/usr/local/bin/simreadspe"
+}

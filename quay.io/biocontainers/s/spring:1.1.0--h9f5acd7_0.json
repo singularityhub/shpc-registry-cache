@@ -1,0 +1,4 @@
+{
+    "spring": "/usr/local/bin/spring",
+    "env-execute": "/usr/local/env-execute"
+}

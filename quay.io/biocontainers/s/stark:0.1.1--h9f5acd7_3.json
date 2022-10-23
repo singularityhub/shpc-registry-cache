@@ -1,0 +1,4 @@
+{
+    "stark": "/usr/local/bin/stark",
+    "env-execute": "/usr/local/env-execute"
+}

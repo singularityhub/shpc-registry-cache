@@ -1,0 +1,4 @@
+{
+    "regtools": "/usr/local/bin/regtools",
+    "env-execute": "/usr/local/env-execute"
+}

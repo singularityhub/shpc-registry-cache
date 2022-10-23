@@ -1,0 +1,4 @@
+{
+    "sracat": "/usr/local/bin/sracat",
+    "env-execute": "/usr/local/env-execute"
+}

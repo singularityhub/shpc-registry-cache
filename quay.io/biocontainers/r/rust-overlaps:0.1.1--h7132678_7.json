@@ -1,0 +1,4 @@
+{
+    "rust-overlaps": "/usr/local/bin/rust-overlaps",
+    "env-execute": "/usr/local/env-execute"
+}

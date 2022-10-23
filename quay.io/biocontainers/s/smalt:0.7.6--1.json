@@ -1,0 +1,15 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "basqcol": "/usr/local/bin/basqcol",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "fetchseq": "/usr/local/bin/fetchseq",
+    "mixreads": "/usr/local/bin/mixreads",
+    "readstats": "/usr/local/bin/readstats",
+    "simqual": "/usr/local/bin/simqual",
+    "simread": "/usr/local/bin/simread",
+    "smalt": "/usr/local/bin/smalt",
+    "splitmates": "/usr/local/bin/splitmates",
+    "splitreads": "/usr/local/bin/splitreads",
+    "trunkreads": "/usr/local/bin/trunkreads"
+}

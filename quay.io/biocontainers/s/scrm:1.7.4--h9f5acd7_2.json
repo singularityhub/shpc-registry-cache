@@ -1,0 +1,4 @@
+{
+    "scrm": "/usr/local/bin/scrm",
+    "env-execute": "/usr/local/env-execute"
+}

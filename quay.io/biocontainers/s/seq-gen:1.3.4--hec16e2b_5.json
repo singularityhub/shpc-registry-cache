@@ -1,0 +1,4 @@
+{
+    "seq-gen": "/usr/local/bin/seq-gen",
+    "env-execute": "/usr/local/env-execute"
+}

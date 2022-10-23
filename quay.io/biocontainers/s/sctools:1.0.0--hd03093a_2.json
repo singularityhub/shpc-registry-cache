@@ -1,0 +1,4 @@
+{
+    "sctools_demultiplex": "/usr/local/bin/sctools_demultiplex",
+    "env-execute": "/usr/local/env-execute"
+}

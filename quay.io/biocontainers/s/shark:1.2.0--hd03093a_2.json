@@ -1,0 +1,4 @@
+{
+    "shark": "/usr/local/bin/shark",
+    "env-execute": "/usr/local/env-execute"
+}

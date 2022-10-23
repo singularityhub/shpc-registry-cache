@@ -1,0 +1,9 @@
+{
+    "graphdump": "/usr/local/bin/graphdump",
+    "maf2synteny": "/usr/local/bin/maf2synteny",
+    "sibeliaz": "/usr/local/bin/sibeliaz",
+    "sibeliaz-lcb": "/usr/local/bin/sibeliaz-lcb",
+    "spoa": "/usr/local/bin/spoa",
+    "twopaco": "/usr/local/bin/twopaco",
+    "env-execute": "/usr/local/env-execute"
+}

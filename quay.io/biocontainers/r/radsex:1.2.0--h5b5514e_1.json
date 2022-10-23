@@ -1,0 +1,4 @@
+{
+    "radsex": "/usr/local/bin/radsex",
+    "env-execute": "/usr/local/env-execute"
+}

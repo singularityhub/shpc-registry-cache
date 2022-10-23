@@ -1,0 +1,11 @@
+{
+    "2csfastq_1csfastq": "/usr/local/bin/2csfastq_1csfastq",
+    "cd-hit-est": "/usr/local/bin/cd-hit-est",
+    "cs2bs_assembly": "/usr/local/bin/cs2bs_assembly",
+    "csfasta_to_fastq": "/usr/local/bin/csfasta_to_fastq",
+    "fasta_remove": "/usr/local/bin/fasta_remove",
+    "pass": "/usr/local/bin/pass",
+    "rename_fastq_tag": "/usr/local/bin/rename_fastq_tag",
+    "satrap": "/usr/local/bin/satrap",
+    "env-execute": "/usr/local/env-execute"
+}

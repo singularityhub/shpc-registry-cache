@@ -1,0 +1,5 @@
+{
+    "pslivar": "/usr/local/bin/pslivar",
+    "slivar": "/usr/local/bin/slivar",
+    "env-execute": "/usr/local/env-execute"
+}

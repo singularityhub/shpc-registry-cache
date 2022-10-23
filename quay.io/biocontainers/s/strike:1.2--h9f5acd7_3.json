@@ -1,0 +1,4 @@
+{
+    "strike": "/usr/local/bin/strike",
+    "env-execute": "/usr/local/env-execute"
+}

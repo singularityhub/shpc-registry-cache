@@ -1,0 +1,4 @@
+{
+    "seqyclean": "/usr/local/bin/seqyclean",
+    "env-execute": "/usr/local/env-execute"
+}

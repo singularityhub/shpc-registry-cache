@@ -1,0 +1,4 @@
+{
+    "TakeABreak": "/usr/local/bin/TakeABreak",
+    "env-execute": "/usr/local/env-execute"
+}

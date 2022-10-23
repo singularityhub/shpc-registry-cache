@@ -1,0 +1,4 @@
+{
+    "structure": "/usr/local/bin/structure",
+    "env-execute": "/usr/local/env-execute"
+}

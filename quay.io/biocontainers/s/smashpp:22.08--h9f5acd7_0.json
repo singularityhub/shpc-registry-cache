@@ -1,0 +1,6 @@
+{
+    "exclude_N": "/usr/local/bin/exclude_N",
+    "smashpp": "/usr/local/bin/smashpp",
+    "smashpp-inv-rep": "/usr/local/bin/smashpp-inv-rep",
+    "env-execute": "/usr/local/env-execute"
+}

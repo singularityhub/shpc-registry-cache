@@ -1,0 +1,4 @@
+{
+    "snp-sites": "/usr/local/bin/snp-sites",
+    "env-execute": "/usr/local/env-execute"
+}

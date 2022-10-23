@@ -1,0 +1,5 @@
+{
+    "rfmix": "/usr/local/bin/rfmix",
+    "simulate": "/usr/local/bin/simulate",
+    "env-execute": "/usr/local/env-execute"
+}

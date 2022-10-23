@@ -1,0 +1,17 @@
+{
+    "afetch": "/usr/local/bin/afetch",
+    "alistat": "/usr/local/bin/alistat",
+    "compalign": "/usr/local/bin/compalign",
+    "compstruct": "/usr/local/bin/compstruct",
+    "randfold": "/usr/local/bin/randfold",
+    "revcomp": "/usr/local/bin/revcomp",
+    "seqsplit": "/usr/local/bin/seqsplit",
+    "seqstat": "/usr/local/bin/seqstat",
+    "sfetch": "/usr/local/bin/sfetch",
+    "shuffle": "/usr/local/bin/shuffle",
+    "sindex": "/usr/local/bin/sindex",
+    "sreformat": "/usr/local/bin/sreformat",
+    "translate": "/usr/local/bin/translate",
+    "weight": "/usr/local/bin/weight",
+    "env-execute": "/usr/local/env-execute"
+}

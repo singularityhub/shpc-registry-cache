@@ -1,0 +1,6 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "rapmap": "/usr/local/bin/rapmap"
+}

@@ -1,0 +1,4 @@
+{
+    "samblaster": "/usr/local/bin/samblaster",
+    "env-execute": "/usr/local/env-execute"
+}

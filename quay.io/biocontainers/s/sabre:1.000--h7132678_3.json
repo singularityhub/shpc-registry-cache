@@ -1,0 +1,4 @@
+{
+    "sabre": "/usr/local/bin/sabre",
+    "env-execute": "/usr/local/env-execute"
+}

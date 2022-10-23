@@ -1,0 +1,4 @@
+{
+    "svict": "/usr/local/bin/svict",
+    "env-execute": "/usr/local/env-execute"
+}

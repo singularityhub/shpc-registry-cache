@@ -1,0 +1,4 @@
+{
+    "SeqPrep": "/usr/local/bin/SeqPrep",
+    "env-execute": "/usr/local/env-execute"
+}

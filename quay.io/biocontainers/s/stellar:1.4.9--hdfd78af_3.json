@@ -1,0 +1,4 @@
+{
+    "stellar": "/usr/local/bin/stellar",
+    "env-execute": "/usr/local/env-execute"
+}

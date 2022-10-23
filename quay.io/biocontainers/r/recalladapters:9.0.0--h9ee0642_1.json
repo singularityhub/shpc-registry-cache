@@ -1,0 +1,5 @@
+{
+    ".recalladapters-post-link.sh": "/usr/local/bin/.recalladapters-post-link.sh",
+    "recalladapters": "/usr/local/bin/recalladapters",
+    "env-execute": "/usr/local/env-execute"
+}

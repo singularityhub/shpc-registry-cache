@@ -1,0 +1,4 @@
+{
+    "sortmerna": "/usr/local/bin/sortmerna",
+    "env-execute": "/usr/local/env-execute"
+}

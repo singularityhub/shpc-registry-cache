@@ -1,0 +1,4 @@
+{
+    "sdm": "/usr/local/bin/sdm",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,7 @@
+{
+    "2bwt-builder": "/usr/local/bin/2bwt-builder",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "soap": "/usr/local/bin/soap"
+}

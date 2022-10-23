@@ -1,0 +1,5 @@
+{
+    "pecheck-wrapper.py": "/usr/local/bin/pecheck-wrapper.py",
+    "seqhax": "/usr/local/bin/seqhax",
+    "env-execute": "/usr/local/env-execute"
+}

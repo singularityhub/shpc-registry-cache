@@ -1,0 +1,5 @@
+{
+    "make": "/usr/local/bin/make",
+    "srnaMapper": "/usr/local/bin/srnaMapper",
+    "env-execute": "/usr/local/env-execute"
+}

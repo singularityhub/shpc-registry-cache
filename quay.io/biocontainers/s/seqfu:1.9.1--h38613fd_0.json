@@ -1,0 +1,21 @@
+{
+    "dadaist2-mergeseqs": "/usr/local/bin/dadaist2-mergeseqs",
+    "fu-16Sregion": "/usr/local/bin/fu-16Sregion",
+    "fu-cov": "/usr/local/bin/fu-cov",
+    "fu-homocomp": "/usr/local/bin/fu-homocomp",
+    "fu-index": "/usr/local/bin/fu-index",
+    "fu-msa": "/usr/local/bin/fu-msa",
+    "fu-multirelabel": "/usr/local/bin/fu-multirelabel",
+    "fu-nanotags": "/usr/local/bin/fu-nanotags",
+    "fu-orf": "/usr/local/bin/fu-orf",
+    "fu-primers": "/usr/local/bin/fu-primers",
+    "fu-shred": "/usr/local/bin/fu-shred",
+    "fu-sw": "/usr/local/bin/fu-sw",
+    "fu-tabcheck": "/usr/local/bin/fu-tabcheck",
+    "fu-virfilter": "/usr/local/bin/fu-virfilter",
+    "pcre-config": "/usr/local/bin/pcre-config",
+    "pcregrep": "/usr/local/bin/pcregrep",
+    "pcretest": "/usr/local/bin/pcretest",
+    "seqfu": "/usr/local/bin/seqfu",
+    "env-execute": "/usr/local/env-execute"
+}

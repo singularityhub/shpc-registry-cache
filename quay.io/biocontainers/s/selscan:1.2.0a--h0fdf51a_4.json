@@ -1,0 +1,8 @@
+{
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "norm": "/usr/local/bin/norm",
+    "selscan": "/usr/local/bin/selscan",
+    "env-execute": "/usr/local/env-execute"
+}

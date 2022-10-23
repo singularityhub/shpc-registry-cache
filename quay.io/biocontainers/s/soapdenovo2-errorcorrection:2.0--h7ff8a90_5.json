@@ -1,0 +1,4 @@
+{
+    "ErrorCorrection": "/usr/local/bin/ErrorCorrection",
+    "env-execute": "/usr/local/env-execute"
+}

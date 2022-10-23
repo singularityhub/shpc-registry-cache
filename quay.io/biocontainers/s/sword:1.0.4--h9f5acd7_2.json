@@ -1,0 +1,4 @@
+{
+    "sword": "/usr/local/bin/sword",
+    "env-execute": "/usr/local/env-execute"
+}

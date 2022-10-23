@@ -1,0 +1,4 @@
+{
+    "seqkit": "/usr/local/bin/seqkit",
+    "env-execute": "/usr/local/env-execute"
+}

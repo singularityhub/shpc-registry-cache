@@ -1,0 +1,6 @@
+{
+    ".sirius-csifingerid-post-link.sh": "/usr/local/bin/.sirius-csifingerid-post-link.sh",
+    "sirius": "/usr/local/bin/sirius",
+    "sirius-gui": "/usr/local/bin/sirius-gui",
+    "env-execute": "/usr/local/env-execute"
+}

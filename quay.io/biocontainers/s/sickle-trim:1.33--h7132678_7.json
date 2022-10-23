@@ -1,0 +1,4 @@
+{
+    "sickle": "/usr/local/bin/sickle",
+    "env-execute": "/usr/local/env-execute"
+}

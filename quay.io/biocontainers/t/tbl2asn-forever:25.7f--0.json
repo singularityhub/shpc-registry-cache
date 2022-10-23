@@ -1,0 +1,7 @@
+{
+    "faketime": "/usr/local/bin/faketime",
+    "iconv": "/usr/local/bin/iconv",
+    "idn": "/usr/local/bin/idn",
+    "real-tbl2asn": "/usr/local/bin/real-tbl2asn",
+    "tbl2asn": "/usr/local/bin/tbl2asn"
+}

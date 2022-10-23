@@ -1,0 +1,8 @@
+{
+    "edgeredef": "/usr/local/bin/edgeredef",
+    "eledef": "/usr/local/bin/eledef",
+    "eleredef": "/usr/local/bin/eleredef",
+    "famdef": "/usr/local/bin/famdef",
+    "imagespread": "/usr/local/bin/imagespread",
+    "env-execute": "/usr/local/env-execute"
+}
