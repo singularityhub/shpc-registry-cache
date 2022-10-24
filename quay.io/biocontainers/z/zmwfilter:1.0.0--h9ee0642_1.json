@@ -1,0 +1,5 @@
+{
+    ".zmwfilter-post-link.sh": "/usr/local/bin/.zmwfilter-post-link.sh",
+    "zmwfilter": "/usr/local/bin/zmwfilter",
+    "env-execute": "/usr/local/env-execute"
+}

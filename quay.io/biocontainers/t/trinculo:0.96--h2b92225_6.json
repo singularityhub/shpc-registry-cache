@@ -1,0 +1,4 @@
+{
+    "trinculo": "/usr/local/bin/trinculo",
+    "env-execute": "/usr/local/env-execute"
+}

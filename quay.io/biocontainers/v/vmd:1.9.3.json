@@ -1,0 +1,4 @@
+{
+    "vmd": "/usr/local/bin/vmd",
+    "env-execute": "/usr/local/env-execute"
+}

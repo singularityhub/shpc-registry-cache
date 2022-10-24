@@ -1,0 +1,5 @@
+{
+    "cdbg-ops": "/usr/local/bin/cdbg-ops",
+    "gatb-h5dump": "/usr/local/bin/gatb-h5dump",
+    "unitig-counter": "/usr/local/bin/unitig-counter"
+}

@@ -1,0 +1,4 @@
+{
+    "vgan": "/usr/local/bin/vgan",
+    "env-execute": "/usr/local/env-execute"
+}

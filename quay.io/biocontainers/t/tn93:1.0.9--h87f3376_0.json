@@ -1,0 +1,12 @@
+{
+    "ShortestPathTN93": "/usr/local/bin/ShortestPathTN93",
+    "fasta_diff": "/usr/local/bin/fasta_diff",
+    "nucfreqsfasta": "/usr/local/bin/nucfreqsfasta",
+    "readreduce": "/usr/local/bin/readreduce",
+    "selectreads": "/usr/local/bin/selectreads",
+    "seqcoverage": "/usr/local/bin/seqcoverage",
+    "seqdiff": "/usr/local/bin/seqdiff",
+    "tn93": "/usr/local/bin/tn93",
+    "tn93-cluster": "/usr/local/bin/tn93-cluster",
+    "env-execute": "/usr/local/env-execute"
+}

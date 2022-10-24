@@ -1,0 +1,5 @@
+{
+    "graphdump": "/usr/local/bin/graphdump",
+    "twopaco": "/usr/local/bin/twopaco",
+    "env-execute": "/usr/local/env-execute"
+}

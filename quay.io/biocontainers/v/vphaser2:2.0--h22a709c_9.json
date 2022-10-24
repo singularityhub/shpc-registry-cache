@@ -1,0 +1,5 @@
+{
+    "bamtools": "/usr/local/bin/bamtools",
+    "variant_caller": "/usr/local/bin/variant_caller",
+    "vphaser2": "/usr/local/bin/vphaser2"
+}

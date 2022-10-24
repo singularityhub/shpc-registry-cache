@@ -1,0 +1,4 @@
+{
+    "verse": "/usr/local/bin/verse",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,9 @@
+{
+    "extractDEs": "/usr/local/bin/extractDEs",
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "thermo": "/usr/local/bin/thermo",
+    "zagros": "/usr/local/bin/zagros",
+    "env-execute": "/usr/local/env-execute"
+}

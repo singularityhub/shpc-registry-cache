@@ -1,0 +1,4 @@
+{
+    "virulign": "/usr/local/bin/virulign",
+    "env-execute": "/usr/local/env-execute"
+}

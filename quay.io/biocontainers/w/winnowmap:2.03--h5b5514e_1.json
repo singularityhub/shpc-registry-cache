@@ -1,0 +1,9 @@
+{
+    "meryl": "/usr/local/bin/meryl",
+    "meryl-analyze": "/usr/local/bin/meryl-analyze",
+    "meryl-import": "/usr/local/bin/meryl-import",
+    "meryl-lookup": "/usr/local/bin/meryl-lookup",
+    "meryl-simple": "/usr/local/bin/meryl-simple",
+    "winnowmap": "/usr/local/bin/winnowmap",
+    "env-execute": "/usr/local/env-execute"
+}

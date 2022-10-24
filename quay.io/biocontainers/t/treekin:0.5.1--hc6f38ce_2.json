@@ -1,0 +1,5 @@
+{
+    "qd-config": "/usr/local/bin/qd-config",
+    "treekin": "/usr/local/bin/treekin",
+    "env-execute": "/usr/local/env-execute"
+}

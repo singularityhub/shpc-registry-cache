@@ -1,0 +1,4 @@
+{
+    "unmerge": "/usr/local/bin/unmerge",
+    "env-execute": "/usr/local/env-execute"
+}

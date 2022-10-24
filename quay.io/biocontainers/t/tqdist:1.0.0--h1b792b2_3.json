@@ -1,0 +1,9 @@
+{
+    "all_pairs_quartet_dist": "/usr/local/bin/all_pairs_quartet_dist",
+    "all_pairs_triplet_dist": "/usr/local/bin/all_pairs_triplet_dist",
+    "pairs_quartet_dist": "/usr/local/bin/pairs_quartet_dist",
+    "pairs_triplet_dist": "/usr/local/bin/pairs_triplet_dist",
+    "quartet_dist": "/usr/local/bin/quartet_dist",
+    "triplet_dist": "/usr/local/bin/triplet_dist",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,8 @@
+{
+    "FGS_gff.py": "/usr/local/bin/FGS_gff.py",
+    "TransGeneScan": "/usr/local/bin/TransGeneScan",
+    "post_process.pl": "/usr/local/bin/post_process.pl",
+    "processFragOut.py": "/usr/local/bin/processFragOut.py",
+    "run_TransGeneScan.pl": "/usr/local/bin/run_TransGeneScan.pl",
+    "env-execute": "/usr/local/env-execute"
+}

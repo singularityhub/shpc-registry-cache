@@ -1,0 +1,5 @@
+{
+    "xmlwf": "/usr/local/bin/xmlwf",
+    "xtandem": "/usr/local/bin/xtandem",
+    "env-execute": "/usr/local/env-execute"
+}

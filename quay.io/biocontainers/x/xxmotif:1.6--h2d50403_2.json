@@ -1,0 +1,6 @@
+{
+    "XXmotif": "/usr/local/bin/XXmotif",
+    "activate": "/usr/local/bin/activate",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate"
+}

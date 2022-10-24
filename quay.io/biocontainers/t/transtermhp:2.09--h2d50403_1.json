@@ -1,0 +1,10 @@
+{
+    "2ndscore": "/usr/local/bin/2ndscore",
+    "activate": "/usr/local/bin/activate",
+    "calibrate.sh": "/usr/local/bin/calibrate.sh",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "make_expterm.py": "/usr/local/bin/make_expterm.py",
+    "mfold_rna.sh": "/usr/local/bin/mfold_rna.sh",
+    "transterm": "/usr/local/bin/transterm"
+}

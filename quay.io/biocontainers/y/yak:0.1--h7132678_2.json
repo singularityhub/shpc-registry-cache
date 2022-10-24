@@ -1,0 +1,4 @@
+{
+    "yak": "/usr/local/bin/yak",
+    "env-execute": "/usr/local/env-execute"
+}

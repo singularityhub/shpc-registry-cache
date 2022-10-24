@@ -1,0 +1,18 @@
+{
+    "activate": "/usr/local/bin/activate",
+    "captoinfo": "/usr/local/bin/captoinfo",
+    "clear": "/usr/local/bin/clear",
+    "conda": "/usr/local/bin/conda",
+    "deactivate": "/usr/local/bin/deactivate",
+    "event_rpcgen.py": "/usr/local/bin/event_rpcgen.py",
+    "infocmp": "/usr/local/bin/infocmp",
+    "infotocap": "/usr/local/bin/infotocap",
+    "ncurses5-config": "/usr/local/bin/ncurses5-config",
+    "reset": "/usr/local/bin/reset",
+    "tabs": "/usr/local/bin/tabs",
+    "tic": "/usr/local/bin/tic",
+    "tmux": "/usr/local/bin/tmux",
+    "toe": "/usr/local/bin/toe",
+    "tput": "/usr/local/bin/tput",
+    "tset": "/usr/local/bin/tset"
+}
