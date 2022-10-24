@@ -1,0 +1,6 @@
+{
+    "abismal": "/usr/local/bin/abismal",
+    "abismalidx": "/usr/local/bin/abismalidx",
+    "simreads": "/usr/local/bin/simreads",
+    "env-execute": "/usr/local/env-execute"
+}
