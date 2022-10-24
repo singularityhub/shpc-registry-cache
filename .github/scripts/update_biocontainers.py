@@ -85,9 +85,9 @@ def main():
     uris = get_tags(links, args.cache)
 
     skips_file = os.path.join(root, "skips.json")
-    skip = set()
+    skips = set()
     if os.path.exists(skips_file):
-        skips = set(shpc.utils.read_json(skips))
+        skips = set(shpc.utils.read_json(skips_file))
 
     # Ensure our alias cache exists
     if not os.path.exists(args.cache):
