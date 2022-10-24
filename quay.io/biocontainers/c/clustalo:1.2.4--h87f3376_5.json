@@ -1,0 +1,4 @@
+{
+    "clustalo": "/usr/local/bin/clustalo",
+    "env-execute": "/usr/local/env-execute"
+}

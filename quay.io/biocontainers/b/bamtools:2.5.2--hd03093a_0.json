@@ -1,0 +1,4 @@
+{
+    "bamtools": "/usr/local/bin/bamtools",
+    "env-execute": "/usr/local/env-execute"
+}
