@@ -1,3 +1,4 @@
 singularity-hpc
 pipelib
 requests
+beautifulsoup4
