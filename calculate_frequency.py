@@ -2,14 +2,58 @@
 
 import argparse
 import os
-import shpc.utils
+import json
 import shutil
 import requests
 import re
 import glob
 
-
 here = os.path.abspath(os.path.dirname(__file__))
+
+def recursive_find(base, pattern=None):
+    """
+    Find filenames that match a particular pattern, and yield them.
+    """
+    # We can identify modules by finding module.lua
+    for root, folders, files in os.walk(base):
+        for file in files:
+            fullpath = os.path.abspath(os.path.join(root, file))
+
+            if pattern and not re.search(pattern, fullpath):
+                continue
+            yield fullpath
+
+
+def write_json(json_obj, filename, mode="w"):
+    """
+    Write json to a filename
+    """
+    with open(filename, mode) as filey:
+        filey.writelines(print_json(json_obj))
+    return filename
+
+
+def print_json(json_obj):
+    """
+    Print json pretty
+    """
+    return json.dumps(json_obj, indent=4, separators=(",", ": "))
+
+
+def read_file(filename, mode="r"):
+    """
+    Read a file.
+    """
+    with open(filename, mode) as filey:
+        content = filey.read()
+    return content
+
+
+def read_json(filename, mode="r"):
+    """
+    Read a json file to a dictionary.
+    """
+    return json.loads(read_file(filename))
 
 def get_parser():
     parser = argparse.ArgumentParser(
@@ -33,14 +77,14 @@ def main():
     counts = {}
     
     # Allow developer to provide tags in root
-    for filename in shpc.utils.recursive_find(args.registry, ".json"):
-        aliases = shpc.utils.read_json(filename)
+    for filename in recursive_find(args.registry, ".json"):
+        aliases = read_json(filename)
         for alias, _ in aliases.items():
             if alias not in counts:
                 counts[alias] = 0
             counts[alias] += 1
 
-    shpc.utils.write_json(counts, "counts.json")
+    write_json(counts, "counts.json")
     
 if __name__ == "__main__":
     main()
