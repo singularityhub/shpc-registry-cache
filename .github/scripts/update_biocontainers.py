@@ -119,6 +119,7 @@ def main():
             cache_aliases(container, args.cache, uri, tag)
         except:
             skips.add(uri)
+            os.system('docker system prune --all --force')
             for path in glob.glob("/tmp/guts*"):
                 shutil.rmtree(path)
 
