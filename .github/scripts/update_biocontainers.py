@@ -15,7 +15,7 @@ import pipelib.pipeline as pipeline
 
 # .github/scripts
 here = os.path.abspath(os.path.dirname(__file__))
-root = os.path.dirname(os.path.dirname(os.path.dirname(here)))
+root = os.path.dirname(os.path.dirname(here))
 
 
 def get_parser():
