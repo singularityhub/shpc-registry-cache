@@ -3,12 +3,11 @@
 import argparse
 import os
 import json
-import shutil
-import requests
 import re
-import glob
 
 here = os.path.abspath(os.path.dirname(__file__))
+root = os.path.dirname(os.path.dirname(here))
+
 
 def recursive_find(base, pattern=None):
     """
@@ -55,6 +54,7 @@ def read_json(filename, mode="r"):
     """
     return json.loads(read_file(filename))
 
+
 def get_parser():
     parser = argparse.ArgumentParser(
         description="SHPC Registry Counts Generator",
@@ -75,7 +75,7 @@ def main():
     print("    registry: %s" % args.registry)
 
     counts = {}
-    
+
     # Allow developer to provide tags in root
     for filename in recursive_find(args.registry, ".json"):
         aliases = read_json(filename)
@@ -84,7 +84,8 @@ def main():
                 counts[alias] = 0
             counts[alias] += 1
 
-    write_json(counts, "counts.json")
-    
+    write_json(counts, os.path.join(root, "counts.json"))
+
+
 if __name__ == "__main__":
     main()
