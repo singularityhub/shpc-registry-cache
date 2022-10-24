@@ -2,3 +2,4 @@ singularity-hpc
 pipelib
 requests
 beautifulsoup4
+packaging
