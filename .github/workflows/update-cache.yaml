@@ -26,7 +26,7 @@ jobs:
     - name: Update Cache
       run: |
         export PATH="/usr/share/miniconda/bin:$PATH"
-        source activate shpc         
+        source activate shpc
         printf "python .github/scripts/update_biocontainers.py\n"
         python .github/scripts/update_biocontainers.py
         printf "python .github/scripts/calculate_frequency.py\n"
@@ -46,6 +46,7 @@ jobs:
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@users.noreply.github.com"
         git add counts.json
+        git add skips.json
         git add quay.io/biocontainers/*/*
         git status
         if git diff-index --quiet HEAD --; then

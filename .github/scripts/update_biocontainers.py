@@ -59,7 +59,6 @@ def get_tags(links, registry):
         image, tag = link.text.split(":", 1)
 
         if has_cache_entry(image, registry) or image in uris:
-            print("Skipping {uri}, cache data already exists.")
             continue
 
         print(f"Retrieving tags for {image}")
@@ -85,6 +84,11 @@ def main():
     # Allow developer to provide tags in root
     uris = get_tags(links, args.cache)
 
+    skips_file = os.path.join(root, "skips.json")
+    skip = set()
+    if os.path.exists(skips_file):
+        skips = set(shpc.utils.read_json(skips))
+
     # Ensure our alias cache exists
     if not os.path.exists(args.cache):
         shpc.utils.mkdir_p(args.cache)
@@ -92,8 +96,11 @@ def main():
     # For each uri, get latest version of tags not an error
     for uri, tags in uris.items():
 
-        # container_dir = os.path.join(args.registry, "quay.io", "biocontainers", uri)
-        if "UNAUTHORIZED" in tags[0]:  # or os.path.exists(container_dir):
+        if uri in skips:
+            continue
+
+        if "UNAUTHORIZED" in tags[0]:
+            skips.add(uri)
             continue
 
         if has_cache_entry(uri, args.cache):
@@ -102,6 +109,7 @@ def main():
         # The updated and transformed items
         ordered = p.run(list(tags), unwrap=False)
         if not ordered:
+            skips.add(uri)
             continue
 
         tag = ordered[0]._original
@@ -110,8 +118,13 @@ def main():
         try:
             cache_aliases(container, args.cache, uri, tag)
         except:
+            skips.add(uri)
             for path in glob.glob("/tmp/guts*"):
                 shutil.rmtree(path)
+
+    # Write skips back to file for faster parsing
+    shpc.utils.write_json(list(skips), skips_file)
+
 
 def include_path(path):
     """
