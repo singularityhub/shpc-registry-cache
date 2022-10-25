@@ -107,7 +107,11 @@ def main():
             continue
 
         # The updated and transformed items
-        ordered = p.run(list(tags), unwrap=False)
+        try:
+            ordered = p.run(list(tags), unwrap=False)
+        except:
+            continue
+
         if not ordered:
             skips.add(uri)
             continue
@@ -125,6 +129,8 @@ def main():
             os.system("docker system prune --all --force")
             for path in glob.glob("/tmp/guts*"):
                 shutil.rmtree(path)
+        # Save as we go
+        shpc.utils.write_json(list(skips), skips_file)
 
     # Write skips back to file for faster parsing
     shpc.utils.write_json(list(skips), skips_file)
