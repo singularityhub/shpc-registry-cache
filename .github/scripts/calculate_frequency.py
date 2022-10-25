@@ -60,7 +60,7 @@ def get_parser():
         description="SHPC Registry Counts Generator",
         formatter_class=argparse.RawTextHelpFormatter,
     )
-    parser.add_argument("--registry", help="Path to registry root.", default=here)
+    parser.add_argument("--registry", help="Path to registry root.", default=root)
     return parser
 
 
@@ -79,7 +79,7 @@ def main():
     # Allow developer to provide tags in root
     for filename in recursive_find(args.registry, ".json"):
         aliases = read_json(filename)
-        for alias, _ in aliases.items():
+        for alias in aliases:
             if alias not in counts:
                 counts[alias] = 0
             counts[alias] += 1
