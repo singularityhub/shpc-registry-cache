@@ -1,0 +1,69 @@
+name: Update Cache
+
+on:
+  schedule:
+  - cron: '0 0 * * 3'
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Create conda environment
+      run: conda create --quiet -c conda-forge --name shpc spython
+
+    - name: Install shpc and Guts
+      run: |
+        export PATH="/usr/share/miniconda/bin:$PATH"
+        source activate shpc
+        pip install git+https://github.com/singularityhub/singularity-hpc@main
+        pip install git+https://github.com/singularityhub/guts@main
+        pip install -r .github/scripts/dev-requirements.txt
+
+    - name: Update Cache
+      run: |
+        export PATH="/usr/share/miniconda/bin:$PATH"
+        source activate shpc
+        printf "python .github/scripts/update_biocontainers.py\n"
+        python .github/scripts/update_biocontainers.py
+        printf "python .github/scripts/calculate_frequency.py\n"
+        python .github/scripts/calculate_frequency.py
+
+    - name: Checkout Update branch
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_AGAINST: main
+      run: |
+        printf "GitHub Actor: ${GITHUB_ACTOR}\n"
+        export BRANCH_FROM="update/cache-$(date '+%Y-%m-%d')"
+        git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git branch
+        git checkout -b "${BRANCH_FROM}" || git checkout "${BRANCH_FROM}"
+        git branch
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git add counts.json
+        git add skips.json
+        git add quay.io/biocontainers/*/*
+        git status
+        if git diff-index --quiet HEAD --; then
+           export OPEN_PULL_REQUEST=0
+           printf "No changes\n"
+        else
+           export OPEN_PULL_REQUEST=1
+           printf "Changes\n"
+           git commit -a -m "Automated deployment with new container $(date '+%Y-%m-%d')"
+           git push origin "${BRANCH_FROM}"
+        fi
+        echo "OPEN_PULL_REQUEST=${OPEN_PULL_REQUEST}" >> $GITHUB_ENV
+        echo "PULL_REQUEST_FROM_BRANCH=${BRANCH_FROM}" >> $GITHUB_ENV
+        echo "PULL_REQUEST_TITLE=[bot] ${BRANCH_FROM}" >> $GITHUB_ENV
+        echo "PULL_REQUEST_BODY=Add new container pull request." >> $GITHUB_ENV
+    - name: Open Pull Request
+      uses: vsoch/pull-request-action@d703f40f3af5ae294f9816395ddf2e3d2d3feafa # 1.0.21
+      if: ${{ env.OPEN_PULL_REQUEST == '1' }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PULL_REQUEST_BRANCH: main
