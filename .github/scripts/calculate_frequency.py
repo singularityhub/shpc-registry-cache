@@ -77,7 +77,7 @@ def main():
     counts = {}
 
     # Allow developer to provide tags in root
-    for filename in recursive_find(args.registry, ".json"):
+    for filename in recursive_find(os.path.join(args.registry, "quay.io"), ".json"):
         aliases = read_json(filename)
         for alias in aliases:
             if alias not in counts:
