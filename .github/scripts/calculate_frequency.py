@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import collections
 import os
 import json
 import re
@@ -84,6 +85,8 @@ def main():
                 counts[alias] = 0
             counts[alias] += 1
 
+    # Ensure sorting by name
+    counts = collections.OrderedDict(sorted(counts.items()))
     write_json(counts, os.path.join(root, "counts.json"))
 
 
