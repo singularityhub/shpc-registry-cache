@@ -1,0 +1,4 @@
+{
+    "pigeon": "/usr/local/bin/pigeon",
+    "env-execute": "/usr/local/env-execute"
+}
