@@ -1,8 +1,9 @@
 name: Update Cache
 
 on:
+  workflow_dispatch:
   schedule:
-  - cron: '0 0 * * 3'
+  - cron: 0 0 * * 3
 
 jobs:
   update-cache:
@@ -62,7 +63,7 @@ jobs:
         echo "PULL_REQUEST_TITLE=[bot] ${BRANCH_FROM}" >> $GITHUB_ENV
         echo "PULL_REQUEST_BODY=Add new container pull request." >> $GITHUB_ENV
     - name: Open Pull Request
-      uses: vsoch/pull-request-action@d703f40f3af5ae294f9816395ddf2e3d2d3feafa # 1.0.21
+      uses: vsoch/pull-request-action@50f22f6d146226ee6b73b7a001f26a3d4579f360 # 1.0.22
       if: ${{ env.OPEN_PULL_REQUEST == '1' }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
