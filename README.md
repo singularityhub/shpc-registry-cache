@@ -22,7 +22,7 @@ for [BioContainers](https://depot.galaxyproject.org/singularity/). This automati
   - For every new identifier to add: 
    - Prepare a directory to store the new cache entry (a json file)
    - Use the [pipelib](https://vsoch.github.io/pipelib/getting_started/user-guide.html) software to sort tags and get the latest.
-   - Use the guts [ManifestGenerator](https://singularityhub.github.io/guts/getting_started/user-guide.html#manifest) to retrieve a listing fo paths and associated files within.
+   - Use the guts [ManifestGenerator](https://singularityhub.github.io/guts/getting_started/user-guide.html#manifest) to retrieve a listing of paths and associated files within.
    - Filter out known patterns that are not executables of interest.
    - Write this output of aliases to the filesystem under the container identifier as a json file.
 - After new aliases are added, [calculate_frequency.py](.github/scripts/calculate_frequency.py) is run to update global [counts.json](counts.json)
