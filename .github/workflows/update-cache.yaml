@@ -30,7 +30,8 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         repo-letter-prefix: true
-        listing: /tmp/biocontainers/containers.txt
+        listing: /tmp/biocontainers.txt
+        namespace: quay.io/biocontainers
         dry_run: ${{ github.event_name == 'pull_request' }}
 
 
