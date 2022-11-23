@@ -2,7 +2,6 @@
 
 import argparse
 import os
-import shpc.utils
 import requests
 from bs4 import BeautifulSoup
 
@@ -14,7 +13,7 @@ root = os.path.dirname(os.path.dirname(here))
 
 def get_parser():
     parser = argparse.ArgumentParser(
-        description="SHPC BioContainer Adder",
+        description="BioContainer Lister",
         formatter_class=argparse.RawTextHelpFormatter,
     )
     parser.add_argument(
@@ -49,8 +48,9 @@ def main():
     print("Found %s BioContainers images" % len(images))
 
     # Write skips back to file for faster parsing
-    text = "\n".join(sorted(list(images)))
-    shpc.utils.write_json(text, args.filename)
+    with open(args.filename, 'w') as fd:
+        for image in sorted(list(images)):
+            fd.write(image + "\n")
 
 
 if __name__ == "__main__":

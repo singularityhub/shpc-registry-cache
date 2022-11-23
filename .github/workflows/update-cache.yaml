@@ -20,7 +20,6 @@ jobs:
       run: |
         export PATH="/usr/share/miniconda/bin:$PATH"
         source activate shpc
-        pip install git+https://github.com/singularityhub/singularity-hpc@main
         pip install -r .github/scripts/dev-requirements.txt
         python .github/scripts/get_biocontainers.py /tmp/biocontainers.txt
         head /tmp/biocontainers.txt
