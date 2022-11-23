@@ -1,10 +1,10 @@
 name: Update Cache
 
 on:
-  pull_request: []
   workflow_dispatch:
   schedule:
-  - cron: 0 0 * * 3
+  # Weekly, monday and thursday
+  - cron: 0 0 * * 1,4
 
 jobs:
   update-cache:
