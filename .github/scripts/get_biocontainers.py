@@ -48,7 +48,7 @@ def main():
     print("Found %s BioContainers images" % len(images))
 
     # Write skips back to file for faster parsing
-    with open(args.filename, 'w') as fd:
+    with open(args.filename, "w") as fd:
         for image in sorted(list(images)):
             fd.write(image + "\n")
 
