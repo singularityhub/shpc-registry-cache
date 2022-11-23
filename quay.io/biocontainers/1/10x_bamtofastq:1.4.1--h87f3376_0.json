@@ -1,0 +1,4 @@
+{
+    "bamtofastq": "/usr/local/bin/bamtofastq",
+    "env-execute": "/usr/local/env-execute"
+}
