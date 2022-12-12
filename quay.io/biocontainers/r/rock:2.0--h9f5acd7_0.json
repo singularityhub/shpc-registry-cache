@@ -1,0 +1,4 @@
+{
+    "rock": "/usr/local/bin/rock",
+    "env-execute": "/usr/local/env-execute"
+}
