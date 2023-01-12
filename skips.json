@@ -209,6 +209,7 @@
     "quay.io/biocontainers/python-tripal",
     "quay.io/biocontainers/quasitools",
     "quay.io/biocontainers/query_phenomizer",
+    "quay.io/biocontainers/querynator",
     "quay.io/biocontainers/r-fateid",
     "quay.io/biocontainers/r-mixomics",
     "quay.io/biocontainers/r-momf",
