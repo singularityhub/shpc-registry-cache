@@ -1,0 +1,4 @@
+{
+    "sgdemux": "/usr/local/bin/sgdemux",
+    "env-execute": "/usr/local/env-execute"
+}
