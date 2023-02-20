@@ -1,0 +1,5 @@
+{
+    "pileup": "/usr/local/bin/pileup",
+    "secedo": "/usr/local/bin/secedo",
+    "env-execute": "/usr/local/env-execute"
+}

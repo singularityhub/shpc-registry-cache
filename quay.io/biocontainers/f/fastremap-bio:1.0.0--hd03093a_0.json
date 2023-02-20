@@ -1,0 +1,4 @@
+{
+    "FastRemap": "/usr/local/bin/FastRemap",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "mudskipper": "/usr/local/bin/mudskipper",
+    "env-execute": "/usr/local/env-execute"
+}

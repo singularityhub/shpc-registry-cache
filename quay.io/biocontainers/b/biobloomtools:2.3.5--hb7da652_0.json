@@ -1,0 +1,8 @@
+{
+    "biobloomcategorizer": "/usr/local/bin/biobloomcategorizer",
+    "biobloommaker": "/usr/local/bin/biobloommaker",
+    "biobloommicategorizer": "/usr/local/bin/biobloommicategorizer",
+    "biobloommimaker": "/usr/local/bin/biobloommimaker",
+    "make": "/usr/local/bin/make",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "Ninja": "/usr/local/bin/Ninja",
+    "env-execute": "/usr/local/env-execute"
+}

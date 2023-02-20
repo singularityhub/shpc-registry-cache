@@ -1,0 +1,4 @@
+{
+    "unikmer": "/usr/local/bin/unikmer",
+    "env-execute": "/usr/local/env-execute"
+}

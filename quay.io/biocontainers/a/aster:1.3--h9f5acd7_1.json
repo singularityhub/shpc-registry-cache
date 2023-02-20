@@ -1,0 +1,6 @@
+{
+    "asterisk": "/usr/local/bin/asterisk",
+    "astral": "/usr/local/bin/astral",
+    "astral-pro": "/usr/local/bin/astral-pro",
+    "env-execute": "/usr/local/env-execute"
+}

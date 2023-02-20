@@ -1,0 +1,6 @@
+{
+    "PCAone": "/usr/local/bin/PCAone",
+    "PCAone.avx2": "/usr/local/bin/PCAone.avx2",
+    "PCAone.x64": "/usr/local/bin/PCAone.x64",
+    "env-execute": "/usr/local/env-execute"
+}

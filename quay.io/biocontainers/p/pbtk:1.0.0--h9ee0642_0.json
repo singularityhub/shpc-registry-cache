@@ -1,0 +1,9 @@
+{
+    "ccs-kinetics-bystrandify": "/usr/local/bin/ccs-kinetics-bystrandify",
+    "extracthifi": "/usr/local/bin/extracthifi",
+    "pbindex": "/usr/local/bin/pbindex",
+    "pbindexdump": "/usr/local/bin/pbindexdump",
+    "pbmerge": "/usr/local/bin/pbmerge",
+    "zmwfilter": "/usr/local/bin/zmwfilter",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "fqgrep": "/usr/local/bin/fqgrep",
+    "env-execute": "/usr/local/env-execute"
+}

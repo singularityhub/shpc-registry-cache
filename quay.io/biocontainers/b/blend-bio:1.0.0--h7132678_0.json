@@ -1,0 +1,5 @@
+{
+    "blend": "/usr/local/bin/blend",
+    "sdust": "/usr/local/bin/sdust",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,5 @@
+{
+    "modle": "/usr/local/bin/modle",
+    "modle_tools": "/usr/local/bin/modle_tools",
+    "env-execute": "/usr/local/env-execute"
+}

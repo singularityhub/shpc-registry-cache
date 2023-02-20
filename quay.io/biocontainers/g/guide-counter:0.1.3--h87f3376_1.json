@@ -1,0 +1,4 @@
+{
+    "guide-counter": "/usr/local/bin/guide-counter",
+    "env-execute": "/usr/local/env-execute"
+}

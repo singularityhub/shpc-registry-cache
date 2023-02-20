@@ -1,0 +1,4 @@
+{
+    "kmcp": "/usr/local/bin/kmcp",
+    "env-execute": "/usr/local/env-execute"
+}

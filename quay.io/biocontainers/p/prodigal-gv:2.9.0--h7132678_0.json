@@ -1,0 +1,4 @@
+{
+    "prodigal-gv": "/usr/local/bin/prodigal-gv",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,5 @@
+{
+    "trgt": "/usr/local/bin/trgt",
+    "trvz": "/usr/local/bin/trvz",
+    "env-execute": "/usr/local/env-execute"
+}

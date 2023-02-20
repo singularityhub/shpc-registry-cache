@@ -1,0 +1,4 @@
+{
+    "boquila": "/usr/local/bin/boquila",
+    "env-execute": "/usr/local/env-execute"
+}

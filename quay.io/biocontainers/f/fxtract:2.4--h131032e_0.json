@@ -1,0 +1,7 @@
+{
+    "fxtract": "/usr/local/bin/fxtract",
+    "pcre-config": "/usr/local/bin/pcre-config",
+    "pcregrep": "/usr/local/bin/pcregrep",
+    "pcretest": "/usr/local/bin/pcretest",
+    "env-execute": "/usr/local/env-execute"
+}

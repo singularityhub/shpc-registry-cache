@@ -1,0 +1,4 @@
+{
+    "fastqtk": "/usr/local/bin/fastqtk",
+    "env-execute": "/usr/local/env-execute"
+}

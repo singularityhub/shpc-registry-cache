@@ -1,0 +1,4 @@
+{
+    "finemap": "/usr/local/bin/finemap",
+    "env-execute": "/usr/local/env-execute"
+}

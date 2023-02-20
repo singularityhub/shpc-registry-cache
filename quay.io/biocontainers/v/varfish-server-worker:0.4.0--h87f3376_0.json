@@ -1,0 +1,4 @@
+{
+    "varfish-server-worker": "/usr/local/bin/varfish-server-worker",
+    "env-execute": "/usr/local/env-execute"
+}

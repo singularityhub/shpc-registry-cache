@@ -1,0 +1,4 @@
+{
+    "skani": "/usr/local/bin/skani",
+    "env-execute": "/usr/local/env-execute"
+}

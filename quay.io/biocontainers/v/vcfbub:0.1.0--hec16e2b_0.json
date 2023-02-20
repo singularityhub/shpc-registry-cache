@@ -1,0 +1,4 @@
+{
+    "vcfbub": "/usr/local/bin/vcfbub",
+    "env-execute": "/usr/local/env-execute"
+}

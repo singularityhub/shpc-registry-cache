@@ -1,0 +1,5 @@
+{
+    "pin_hic": "/usr/local/bin/pin_hic",
+    "pin_hic_it": "/usr/local/bin/pin_hic_it",
+    "env-execute": "/usr/local/env-execute"
+}

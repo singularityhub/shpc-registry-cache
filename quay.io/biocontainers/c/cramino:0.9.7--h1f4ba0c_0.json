@@ -1,0 +1,6 @@
+{
+    "c_rehash": "/usr/local/bin/c_rehash",
+    "cramino": "/usr/local/bin/cramino",
+    "openssl": "/usr/local/bin/openssl",
+    "env-execute": "/usr/local/env-execute"
+}

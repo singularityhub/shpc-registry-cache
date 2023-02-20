@@ -1,0 +1,4 @@
+{
+    "ontime": "/usr/local/bin/ontime",
+    "env-execute": "/usr/local/env-execute"
+}

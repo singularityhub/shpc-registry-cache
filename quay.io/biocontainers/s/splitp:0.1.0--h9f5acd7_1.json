@@ -1,0 +1,4 @@
+{
+    "splitp": "/usr/local/bin/splitp",
+    "env-execute": "/usr/local/env-execute"
+}

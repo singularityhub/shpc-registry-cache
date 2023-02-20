@@ -1,0 +1,8 @@
+{
+    "falcon2gfa": "/usr/local/bin/falcon2gfa",
+    "fastg2gfa": "/usr/local/bin/fastg2gfa",
+    "gfaview": "/usr/local/bin/gfaview",
+    "mag2gfa": "/usr/local/bin/mag2gfa",
+    "supernova2gfa": "/usr/local/bin/supernova2gfa",
+    "env-execute": "/usr/local/env-execute"
+}

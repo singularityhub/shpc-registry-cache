@@ -1,0 +1,8 @@
+{
+    "COGcognitor": "/usr/local/bin/COGcognitor",
+    "COGlse": "/usr/local/bin/COGlse",
+    "COGmakehash": "/usr/local/bin/COGmakehash",
+    "COGreadblast": "/usr/local/bin/COGreadblast",
+    "COGtriangles": "/usr/local/bin/COGtriangles",
+    "env-execute": "/usr/local/env-execute"
+}

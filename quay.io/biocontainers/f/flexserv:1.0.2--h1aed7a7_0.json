@@ -1,0 +1,11 @@
+{
+    "bd": "/usr/local/bin/bd",
+    "diaghess": "/usr/local/bin/diaghess",
+    "dmdgoopt": "/usr/local/bin/dmdgoopt",
+    "lorellnma": "/usr/local/bin/lorellnma",
+    "mc-eigen-mdweb.pl": "/usr/local/bin/mc-eigen-mdweb.pl",
+    "mc-eigen.pl": "/usr/local/bin/mc-eigen.pl",
+    "nmanu.pl": "/usr/local/bin/nmanu.pl",
+    "pca_anim_mc.pl": "/usr/local/bin/pca_anim_mc.pl",
+    "env-execute": "/usr/local/env-execute"
+}

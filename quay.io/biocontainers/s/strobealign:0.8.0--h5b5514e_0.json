@@ -1,0 +1,4 @@
+{
+    "strobealign": "/usr/local/bin/strobealign",
+    "env-execute": "/usr/local/env-execute"
+}

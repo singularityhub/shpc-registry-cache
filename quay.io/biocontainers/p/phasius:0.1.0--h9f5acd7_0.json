@@ -1,0 +1,4 @@
+{
+    "phasius": "/usr/local/bin/phasius",
+    "env-execute": "/usr/local/env-execute"
+}

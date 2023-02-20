@@ -1,0 +1,19 @@
+{
+    "ParDRe": "/usr/local/bin/ParDRe",
+    "hydra_nameserver": "/usr/local/bin/hydra_nameserver",
+    "hydra_persist": "/usr/local/bin/hydra_persist",
+    "hydra_pmi_proxy": "/usr/local/bin/hydra_pmi_proxy",
+    "mpic++": "/usr/local/bin/mpic++",
+    "mpicc": "/usr/local/bin/mpicc",
+    "mpichversion": "/usr/local/bin/mpichversion",
+    "mpicxx": "/usr/local/bin/mpicxx",
+    "mpiexec": "/usr/local/bin/mpiexec",
+    "mpiexec.hydra": "/usr/local/bin/mpiexec.hydra",
+    "mpif77": "/usr/local/bin/mpif77",
+    "mpif90": "/usr/local/bin/mpif90",
+    "mpifort": "/usr/local/bin/mpifort",
+    "mpirun": "/usr/local/bin/mpirun",
+    "mpivars": "/usr/local/bin/mpivars",
+    "parkill": "/usr/local/bin/parkill",
+    "env-execute": "/usr/local/env-execute"
+}
