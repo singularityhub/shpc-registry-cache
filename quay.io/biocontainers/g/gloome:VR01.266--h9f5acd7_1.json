@@ -1,0 +1,4 @@
+{
+    "gainLoss": "/usr/local/bin/gainLoss",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -35,6 +35,37 @@ To learn more about Singularity Registry HPC you can:
 - 📖️ Read the [documentation](https://singularity-hpc.readthedocs.io/en/latest/) 📖️
 - ⭐️ Browse the [container module collection](https://singularityhub.github.io/shpc-registry/) ⭐️
 
+## Manual Update
+
+To update manually, install the updater:
+
+```bash
+$ python -m pip install git+https://github.com/vsoch/pipelib@main
+$ python -m pip install git+https://github.com/singularityhub/guts@main
+$ python -m pip install git+https://github.com/singularityhub/singularity-hpc@main
+```
+```bash
+$ git clone --depth 1 https://github.com/singularityhub/container-executable-discovery
+$ cd container-executable-discovery/lib
+$ pip install -e .
+```
+
+Then generate the biocontainers listing file:
+
+```bash
+$ pip install -r .github/scripts/dev-requirements.txt
+$ python .github/scripts/get_biocontainers.py /tmp/biocontainers.txt
+```
+
+And then run the update!
+
+```bash
+$ container-discovery update-cache --root $(pwd) --repo-letter-prefix --namespace quay.io/biocontainers /tmp/biocontainers.txt 
+```
+
+This is useful to run locally sometimes when there are huge containers that won't be extractable
+in a GitHub action.
+
 ## Contribution
 
 This registry showcases a container executable cache, and specifically includes over 8K containers
