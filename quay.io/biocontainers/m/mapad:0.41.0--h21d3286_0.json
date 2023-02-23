@@ -1,0 +1,4 @@
+{
+    "mapad": "/usr/local/bin/mapad",
+    "env-execute": "/usr/local/env-execute"
+}
