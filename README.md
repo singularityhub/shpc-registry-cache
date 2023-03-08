@@ -1,5 +1,7 @@
 # Shpc Registry Cache
 
+[![DOI](https://zenodo.org/badge/553283627.svg)](https://zenodo.org/badge/latestdoi/553283627)
+
 This is a static cache of container executables discovered on the path. The cache is
 updated once a week (Wednesday), and we store namespaced (based on OCI or Docker registry)
 identifiers from the repository root here. Since we primarily cache the set of BioContainers,
