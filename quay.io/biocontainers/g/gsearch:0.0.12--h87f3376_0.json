@@ -1,0 +1,5 @@
+{
+    "request": "/usr/local/bin/request",
+    "tohnsw": "/usr/local/bin/tohnsw",
+    "env-execute": "/usr/local/env-execute"
+}

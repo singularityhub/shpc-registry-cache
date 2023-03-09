@@ -1,0 +1,5 @@
+{
+    "addNH": "/usr/local/bin/addNH",
+    "mmannot": "/usr/local/bin/mmannot",
+    "env-execute": "/usr/local/env-execute"
+}

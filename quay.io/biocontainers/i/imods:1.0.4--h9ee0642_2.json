@@ -1,0 +1,7 @@
+{
+    "imc": "/usr/local/bin/imc",
+    "imode_gcc": "/usr/local/bin/imode_gcc",
+    "imodview": "/usr/local/bin/imodview",
+    "imove": "/usr/local/bin/imove",
+    "env-execute": "/usr/local/env-execute"
+}
