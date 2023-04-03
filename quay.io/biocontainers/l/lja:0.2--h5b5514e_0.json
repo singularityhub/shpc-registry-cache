@@ -1,0 +1,7 @@
+{
+    "jumboDBG": "/usr/local/bin/jumboDBG",
+    "lja": "/usr/local/bin/lja",
+    "run_polishing": "/usr/local/bin/run_polishing",
+    "run_tests": "/usr/local/bin/run_tests",
+    "env-execute": "/usr/local/env-execute"
+}

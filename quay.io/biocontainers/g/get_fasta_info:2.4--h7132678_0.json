@@ -1,0 +1,5 @@
+{
+    "get_fasta_info": "/usr/local/bin/get_fasta_info",
+    "get_fastq_info": "/usr/local/bin/get_fastq_info",
+    "env-execute": "/usr/local/env-execute"
+}
