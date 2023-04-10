@@ -1,0 +1,4 @@
+{
+    "bamstats": "/usr/local/bin/bamstats",
+    "env-execute": "/usr/local/env-execute"
+}
