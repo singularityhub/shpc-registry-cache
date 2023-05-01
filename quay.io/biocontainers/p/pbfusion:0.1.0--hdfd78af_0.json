@@ -1,0 +1,5 @@
+{
+    "gffcache": "/usr/local/bin/gffcache",
+    "pbfusion": "/usr/local/bin/pbfusion",
+    "env-execute": "/usr/local/env-execute"
+}

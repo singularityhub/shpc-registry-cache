@@ -1,0 +1,4 @@
+{
+    "samcut": "/usr/local/bin/samcut",
+    "env-execute": "/usr/local/env-execute"
+}
