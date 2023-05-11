@@ -1,0 +1,4 @@
+{
+    "squigulator": "/usr/local/bin/squigulator",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -1,0 +1,4 @@
+{
+    "refFinder": "/usr/local/bin/refFinder",
+    "env-execute": "/usr/local/env-execute"
+}
