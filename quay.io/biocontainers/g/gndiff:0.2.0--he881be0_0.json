@@ -1,0 +1,4 @@
+{
+    "gndiff": "/usr/local/bin/gndiff",
+    "env-execute": "/usr/local/env-execute"
+}
