@@ -1,0 +1,12 @@
+{
+    "SRC_counter": "/usr/local/bin/SRC_counter",
+    "SRC_linker": "/usr/local/bin/SRC_linker",
+    "dsk": "/usr/local/bin/dsk",
+    "dsk2ascii": "/usr/local/bin/dsk2ascii",
+    "extract_reads_from_bv": "/usr/local/bin/extract_reads_from_bv",
+    "generate_bv": "/usr/local/bin/generate_bv",
+    "h5cc": "/usr/local/bin/h5cc",
+    "short_read_connector_counter.sh": "/usr/local/bin/short_read_connector_counter.sh",
+    "short_read_connector_linker.sh": "/usr/local/bin/short_read_connector_linker.sh",
+    "env-execute": "/usr/local/env-execute"
+}
