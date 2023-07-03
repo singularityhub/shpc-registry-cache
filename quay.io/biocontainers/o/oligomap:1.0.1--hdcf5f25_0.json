@@ -1,0 +1,4 @@
+{
+    "oligomap": "/usr/local/bin/oligomap",
+    "env-execute": "/usr/local/env-execute"
+}

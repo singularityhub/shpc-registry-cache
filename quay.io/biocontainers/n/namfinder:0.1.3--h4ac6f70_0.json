@@ -1,0 +1,4 @@
+{
+    "namfinder": "/usr/local/bin/namfinder",
+    "env-execute": "/usr/local/env-execute"
+}
