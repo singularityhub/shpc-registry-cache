@@ -1,0 +1,4 @@
+{
+    "gnparser": "/usr/local/bin/gnparser",
+    "env-execute": "/usr/local/env-execute"
+}
