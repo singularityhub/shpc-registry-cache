@@ -1,0 +1,7 @@
+{
+    "est-sfs": "/usr/local/bin/est-sfs",
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "env-execute": "/usr/local/env-execute"
+}

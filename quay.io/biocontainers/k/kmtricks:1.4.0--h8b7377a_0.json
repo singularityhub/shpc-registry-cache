@@ -1,0 +1,6 @@
+{
+    "kmtricks": "/usr/local/bin/kmtricks",
+    "kmtricks-socks": "/usr/local/bin/kmtricks-socks",
+    "kmtricksp": "/usr/local/bin/kmtricksp",
+    "env-execute": "/usr/local/env-execute"
+}
