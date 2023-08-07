@@ -1,0 +1,7 @@
+{
+    "conifer": "/usr/local/bin/conifer",
+    "is_a_parent_of_b": "/usr/local/bin/is_a_parent_of_b",
+    "show_ancestors": "/usr/local/bin/show_ancestors",
+    "taxid_name": "/usr/local/bin/taxid_name",
+    "env-execute": "/usr/local/env-execute"
+}
