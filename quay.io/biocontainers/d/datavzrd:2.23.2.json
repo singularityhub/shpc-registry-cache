@@ -1,0 +1,4 @@
+{
+    "datavzrd": "/usr/local/bin/datavzrd",
+    "env-execute": "/usr/local/env-execute"
+}
