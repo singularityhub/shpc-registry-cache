@@ -1,0 +1,4 @@
+{
+    "umi-transfer": "/usr/local/bin/umi-transfer",
+    "env-execute": "/usr/local/env-execute"
+}
