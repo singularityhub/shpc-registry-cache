@@ -1,0 +1,4 @@
+{
+    "rsrq": "/usr/local/bin/rsrq",
+    "env-execute": "/usr/local/env-execute"
+}
