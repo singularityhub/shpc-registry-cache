@@ -161,6 +161,7 @@
     "quay.io/biocontainers/ghost-tree",
     "quay.io/biocontainers/gseapy",
     "quay.io/biocontainers/gzip",
+    "quay.io/biocontainers/helixer-docker",
     "quay.io/biocontainers/hint",
     "quay.io/biocontainers/htsbox",
     "quay.io/biocontainers/hyphy",
