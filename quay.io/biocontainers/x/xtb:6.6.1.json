@@ -1,0 +1,7 @@
+{
+    "dftd4": "/usr/local/bin/dftd4",
+    "s-dftd3": "/usr/local/bin/s-dftd3",
+    "tblite": "/usr/local/bin/tblite",
+    "xtb": "/usr/local/bin/xtb",
+    "env-execute": "/usr/local/env-execute"
+}
