@@ -1,0 +1,4 @@
+{
+    "modkit": "/usr/local/bin/modkit",
+    "env-execute": "/usr/local/env-execute"
+}
