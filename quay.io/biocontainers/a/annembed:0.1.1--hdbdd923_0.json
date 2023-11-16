@@ -1,0 +1,4 @@
+{
+    "annembed": "/usr/local/bin/annembed",
+    "env-execute": "/usr/local/env-execute"
+}
