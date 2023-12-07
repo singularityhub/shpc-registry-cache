@@ -120,6 +120,7 @@
     "quay.io/biocontainers/bgt",
     "quay.io/biocontainers/bioconda-repodata-patches",
     "quay.io/biocontainers/bioconductor-ampliqueso",
+    "quay.io/biocontainers/bioconductor-compspot",
     "quay.io/biocontainers/bioconductor-data-packages",
     "quay.io/biocontainers/bioconductor-flowtype",
     "quay.io/biocontainers/bioconductor-moonlightr",
