@@ -24,6 +24,12 @@ jobs:
         python .github/scripts/get_biocontainers.py /tmp/biocontainers.txt
         head /tmp/biocontainers.txt
 
+    - name: Make Space
+      run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /opt/ghc
+
     - name: Update Cache Action
       uses: singularityhub/container-executable-discovery@main
       with:
