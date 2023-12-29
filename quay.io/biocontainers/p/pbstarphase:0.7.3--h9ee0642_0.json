@@ -1,0 +1,4 @@
+{
+    "pbstarphase": "/usr/local/bin/pbstarphase",
+    "env-execute": "/usr/local/env-execute"
+}

@@ -30,7 +30,8 @@ jobs:
           sudo rm -rf /usr/local/lib/android
           sudo rm -rf /opt/ghc
 
-    # Manual run command (don't forget to export GITHUB_TOKEN
+    # Manual run commands (don't forget to export GITHUB_TOKEN)
+    # container-discovery update-cache --root . --repo-letter-prefix --namespace quay.io/biocontainers /tmp/biocontainers.txt
     # container-discovery update-counts --namespace quay.io/biocontainers --root . --repo-letter-prefix /tmp/biocontainers
     - name: Update Cache Action
       uses: singularityhub/container-executable-discovery@main
