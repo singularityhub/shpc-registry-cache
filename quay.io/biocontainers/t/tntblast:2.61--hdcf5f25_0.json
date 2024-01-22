@@ -1,0 +1,4 @@
+{
+    "tntblast": "/usr/local/bin/tntblast",
+    "env-execute": "/usr/local/env-execute"
+}
