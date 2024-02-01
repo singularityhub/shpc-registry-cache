@@ -1,0 +1,5 @@
+{
+    "floria": "/usr/local/bin/floria",
+    "vartig-dump": "/usr/local/bin/vartig-dump",
+    "env-execute": "/usr/local/env-execute"
+}

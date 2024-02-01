@@ -1,0 +1,4 @@
+{
+    "cgt_bacpop": "/usr/local/bin/cgt_bacpop",
+    "env-execute": "/usr/local/env-execute"
+}
