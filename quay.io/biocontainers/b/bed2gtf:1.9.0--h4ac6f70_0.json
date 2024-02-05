@@ -1,0 +1,4 @@
+{
+    "bed2gtf": "/usr/local/bin/bed2gtf",
+    "env-execute": "/usr/local/env-execute"
+}
