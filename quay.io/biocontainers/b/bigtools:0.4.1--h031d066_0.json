@@ -1,0 +1,13 @@
+{
+    "bedgraphtobigwig": "/usr/local/bin/bedgraphtobigwig",
+    "bedtobigbed": "/usr/local/bin/bedtobigbed",
+    "bigbedinfo": "/usr/local/bin/bigbedinfo",
+    "bigbedtobed": "/usr/local/bin/bigbedtobed",
+    "bigtools": "/usr/local/bin/bigtools",
+    "bigwigaverageoverbed": "/usr/local/bin/bigwigaverageoverbed",
+    "bigwiginfo": "/usr/local/bin/bigwiginfo",
+    "bigwigmerge": "/usr/local/bin/bigwigmerge",
+    "bigwigtobedgraph": "/usr/local/bin/bigwigtobedgraph",
+    "bigwigvaluesoverbed": "/usr/local/bin/bigwigvaluesoverbed",
+    "env-execute": "/usr/local/env-execute"
+}

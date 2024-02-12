@@ -1,0 +1,4 @@
+{
+    "peertool": "/usr/local/bin/peertool",
+    "env-execute": "/usr/local/env-execute"
+}

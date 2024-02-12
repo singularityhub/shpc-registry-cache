@@ -1,0 +1,9 @@
+{
+    "feature_description": "/usr/local/bin/feature_description",
+    "multifold": "/usr/local/bin/multifold",
+    "pairfold": "/usr/local/bin/pairfold",
+    "pairfold-web": "/usr/local/bin/pairfold-web",
+    "simfold": "/usr/local/bin/simfold",
+    "simfold_pf": "/usr/local/bin/simfold_pf",
+    "env-execute": "/usr/local/env-execute"
+}

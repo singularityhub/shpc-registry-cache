@@ -1,0 +1,4 @@
+{
+    "graphembed": "/usr/local/bin/graphembed",
+    "env-execute": "/usr/local/env-execute"
+}
