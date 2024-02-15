@@ -1,0 +1,4 @@
+{
+    "recgraph": "/usr/local/bin/recgraph",
+    "env-execute": "/usr/local/env-execute"
+}
