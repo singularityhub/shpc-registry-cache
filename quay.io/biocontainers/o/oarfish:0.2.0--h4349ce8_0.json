@@ -1,0 +1,4 @@
+{
+    "oarfish": "/usr/local/bin/oarfish",
+    "env-execute": "/usr/local/env-execute"
+}
