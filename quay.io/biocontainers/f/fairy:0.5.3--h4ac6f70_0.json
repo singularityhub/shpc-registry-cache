@@ -1,0 +1,4 @@
+{
+    "fairy": "/usr/local/bin/fairy",
+    "env-execute": "/usr/local/env-execute"
+}
