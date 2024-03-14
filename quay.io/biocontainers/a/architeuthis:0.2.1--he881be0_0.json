@@ -1,0 +1,5 @@
+{
+    "architeuthis": "/usr/local/bin/architeuthis",
+    "taxonkit": "/usr/local/bin/taxonkit",
+    "env-execute": "/usr/local/env-execute"
+}
