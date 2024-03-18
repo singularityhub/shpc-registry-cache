@@ -1,0 +1,7 @@
+{
+    "FASTools": "/usr/local/bin/FASTools",
+    "Octopus": "/usr/local/bin/Octopus",
+    "Parallel": "/usr/local/bin/Parallel",
+    "RC": "/usr/local/bin/RC",
+    "env-execute": "/usr/local/env-execute"
+}
