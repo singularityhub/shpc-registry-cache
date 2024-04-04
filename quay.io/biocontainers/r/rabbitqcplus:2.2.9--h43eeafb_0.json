@@ -1,0 +1,5 @@
+{
+    "RabbitQCPlus": "/usr/local/bin/RabbitQCPlus",
+    "rabbitqcplus": "/usr/local/bin/rabbitqcplus",
+    "env-execute": "/usr/local/env-execute"
+}
