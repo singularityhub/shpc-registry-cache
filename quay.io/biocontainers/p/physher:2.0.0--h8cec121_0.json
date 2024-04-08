@@ -1,0 +1,7 @@
+{
+    "gsl-config": "/usr/local/bin/gsl-config",
+    "gsl-histogram": "/usr/local/bin/gsl-histogram",
+    "gsl-randist": "/usr/local/bin/gsl-randist",
+    "physher": "/usr/local/bin/physher",
+    "env-execute": "/usr/local/env-execute"
+}
