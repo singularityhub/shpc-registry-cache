@@ -1,0 +1,10 @@
+{
+    "cc.bin": "/usr/local/bin/cc.bin",
+    "unzstd": "/usr/local/bin/unzstd",
+    "zstd": "/usr/local/bin/zstd",
+    "zstdcat": "/usr/local/bin/zstdcat",
+    "zstdgrep": "/usr/local/bin/zstdgrep",
+    "zstdless": "/usr/local/bin/zstdless",
+    "zstdmt": "/usr/local/bin/zstdmt",
+    "env-execute": "/usr/local/env-execute"
+}
