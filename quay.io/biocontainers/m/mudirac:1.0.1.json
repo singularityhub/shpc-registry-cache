@@ -1,0 +1,4 @@
+{
+    "mudirac": "/usr/local/bin/mudirac",
+    "env-execute": "/usr/local/env-execute"
+}
