@@ -1,0 +1,4 @@
+{
+    "impg": "/usr/local/bin/impg",
+    "env-execute": "/usr/local/env-execute"
+}
