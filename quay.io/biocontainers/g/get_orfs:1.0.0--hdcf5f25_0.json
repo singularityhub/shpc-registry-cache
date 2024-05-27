@@ -1,0 +1,4 @@
+{
+    "get_orfs": "/usr/local/bin/get_orfs",
+    "env-execute": "/usr/local/env-execute"
+}
