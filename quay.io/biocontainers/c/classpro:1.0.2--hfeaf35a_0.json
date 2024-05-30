@@ -1,0 +1,8 @@
+{
+    "ClassGS": "/usr/local/bin/ClassGS",
+    "ClassPro": "/usr/local/bin/ClassPro",
+    "class2acc": "/usr/local/bin/class2acc",
+    "class2cns": "/usr/local/bin/class2cns",
+    "prof2class": "/usr/local/bin/prof2class",
+    "env-execute": "/usr/local/env-execute"
+}
