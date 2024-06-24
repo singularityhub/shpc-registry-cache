@@ -1,0 +1,4 @@
+{
+    "clust-greedy": "/usr/local/bin/clust-greedy",
+    "clust-mst": "/usr/local/bin/clust-mst"
+}
