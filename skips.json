@@ -130,6 +130,7 @@
     "quay.io/biocontainers/bioconductor-ttmap",
     "quay.io/biocontainers/bioformats2raw",
     "quay.io/biocontainers/blat",
+    "quay.io/biocontainers/blobtoolkit",
     "quay.io/biocontainers/bx-python",
     "quay.io/biocontainers/byobu",
     "quay.io/biocontainers/centos",
