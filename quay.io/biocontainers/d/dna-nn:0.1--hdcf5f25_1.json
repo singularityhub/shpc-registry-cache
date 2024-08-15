@@ -1,0 +1,7 @@
+{
+    "dna-brnn": "/usr/local/bin/dna-brnn",
+    "dna-cnn": "/usr/local/bin/dna-cnn",
+    "gen-fq": "/usr/local/bin/gen-fq",
+    "k8": "/usr/local/bin/k8",
+    "parse-rm.js": "/usr/local/bin/parse-rm.js"
+}
