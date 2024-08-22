@@ -1,0 +1,4 @@
+{
+    "chromsize": "/usr/local/bin/chromsize",
+    "chromsize-benchmark": "/usr/local/bin/chromsize-benchmark"
+}
