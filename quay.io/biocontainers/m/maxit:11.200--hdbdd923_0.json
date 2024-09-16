@@ -1,0 +1,5 @@
+{
+    "generate_assembly_cif_file": "/usr/local/bin/generate_assembly_cif_file",
+    "maxit": "/usr/local/bin/maxit",
+    "process_entry": "/usr/local/bin/process_entry"
+}

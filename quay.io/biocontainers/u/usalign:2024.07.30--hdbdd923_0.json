@@ -1,0 +1,17 @@
+{
+    "HwRMSD": "/usr/local/bin/HwRMSD",
+    "MMalign": "/usr/local/bin/MMalign",
+    "NWalign": "/usr/local/bin/NWalign",
+    "TMalign": "/usr/local/bin/TMalign",
+    "TMscore": "/usr/local/bin/TMscore",
+    "USalign": "/usr/local/bin/USalign",
+    "addChainID": "/usr/local/bin/addChainID",
+    "cif2pdb": "/usr/local/bin/cif2pdb",
+    "pdb2fasta": "/usr/local/bin/pdb2fasta",
+    "pdb2ss": "/usr/local/bin/pdb2ss",
+    "pdb2xyz": "/usr/local/bin/pdb2xyz",
+    "pdbAtomName": "/usr/local/bin/pdbAtomName",
+    "qTMclust": "/usr/local/bin/qTMclust",
+    "se": "/usr/local/bin/se",
+    "xyz_sfetch": "/usr/local/bin/xyz_sfetch"
+}
