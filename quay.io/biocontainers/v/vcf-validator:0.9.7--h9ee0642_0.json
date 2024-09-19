@@ -1,0 +1,4 @@
+{
+    "vcf_assembly_checker": "/usr/local/bin/vcf_assembly_checker",
+    "vcf_validator": "/usr/local/bin/vcf_validator"
+}
