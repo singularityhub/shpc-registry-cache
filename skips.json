@@ -131,6 +131,7 @@
     "quay.io/biocontainers/bioformats2raw",
     "quay.io/biocontainers/blat",
     "quay.io/biocontainers/blobtoolkit",
+    "quay.io/biocontainers/busco_phylogenomics",
     "quay.io/biocontainers/bx-python",
     "quay.io/biocontainers/byobu",
     "quay.io/biocontainers/centos",
