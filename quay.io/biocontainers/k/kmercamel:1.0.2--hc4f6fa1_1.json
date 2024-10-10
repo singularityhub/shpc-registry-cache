@@ -1,0 +1,4 @@
+{
+    "glpsol": "/usr/local/bin/glpsol",
+    "kmercamel": "/usr/local/bin/kmercamel"
+}
