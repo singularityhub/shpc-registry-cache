@@ -1,0 +1,6 @@
+{
+    "fastplong": "/usr/local/bin/fastplong",
+    "igzip": "/usr/local/bin/igzip",
+    "libdeflate-gunzip": "/usr/local/bin/libdeflate-gunzip",
+    "libdeflate-gzip": "/usr/local/bin/libdeflate-gzip"
+}
