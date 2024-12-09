@@ -1,0 +1,8 @@
+{
+    "mm2plus": "/usr/local/bin/mm2plus",
+    "mm2plus.avx": "/usr/local/bin/mm2plus.avx",
+    "mm2plus.avx2": "/usr/local/bin/mm2plus.avx2",
+    "mm2plus.avx512": "/usr/local/bin/mm2plus.avx512",
+    "mm2plus.sse4.1": "/usr/local/bin/mm2plus.sse4.1",
+    "mm2plus.sse4.2": "/usr/local/bin/mm2plus.sse4.2"
+}
