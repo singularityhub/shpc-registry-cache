@@ -1,0 +1,5 @@
+{
+    "MCScanX": "/usr/local/bin/MCScanX",
+    "MCScanX_h": "/usr/local/bin/MCScanX_h",
+    "duplicate_gene_classifier": "/usr/local/bin/duplicate_gene_classifier"
+}
