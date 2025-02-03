@@ -5441,6 +5441,7 @@
     "aligncopy": 27,
     "aligncopypair": 27,
     "aligncov": 1,
+    "aligned_bam_to_cpg_scores": 1,
     "alignment-cat": 1,
     "alignment-chop-internal": 1,
     "alignment-compare": 1,
