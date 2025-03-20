@@ -1,0 +1,8 @@
+{
+    "adas-build": "/usr/local/bin/adas-build",
+    "adas-chain": "/usr/local/bin/adas-chain",
+    "adas-insert": "/usr/local/bin/adas-insert",
+    "adas-knn": "/usr/local/bin/adas-knn",
+    "adas-search": "/usr/local/bin/adas-search",
+    "usearch": "/usr/local/bin/usearch"
+}

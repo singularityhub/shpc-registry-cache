@@ -1,0 +1,7 @@
+{
+    "danbing-tk": "/usr/local/bin/danbing-tk",
+    "danbing-tk-pred": "/usr/local/bin/danbing-tk-pred",
+    "genPanKmers": "/usr/local/bin/genPanKmers",
+    "ktools": "/usr/local/bin/ktools",
+    "vntr2kmers_thread": "/usr/local/bin/vntr2kmers_thread"
+}

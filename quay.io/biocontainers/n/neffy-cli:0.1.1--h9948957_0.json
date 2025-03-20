@@ -1,0 +1,4 @@
+{
+    "converter": "/usr/local/bin/converter",
+    "neff": "/usr/local/bin/neff"
+}
