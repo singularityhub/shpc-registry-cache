@@ -1,0 +1,9 @@
+{
+    "aliceasm": "/usr/local/bin/aliceasm",
+    "bcalm": "/usr/local/bin/bcalm",
+    "gfatools": "/usr/local/bin/gfatools",
+    "graphunzip": "/usr/local/bin/graphunzip",
+    "h5cc": "/usr/local/bin/h5cc",
+    "paf2gfa": "/usr/local/bin/paf2gfa",
+    "reduce": "/usr/local/bin/reduce"
+}

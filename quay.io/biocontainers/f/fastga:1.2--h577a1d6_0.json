@@ -1,0 +1,21 @@
+{
+    "ALNchain": "/usr/local/bin/ALNchain",
+    "ALNplot": "/usr/local/bin/ALNplot",
+    "ALNreset": "/usr/local/bin/ALNreset",
+    "ALNshow": "/usr/local/bin/ALNshow",
+    "ALNtoPAF": "/usr/local/bin/ALNtoPAF",
+    "ALNtoPSL": "/usr/local/bin/ALNtoPSL",
+    "FAtoGDB": "/usr/local/bin/FAtoGDB",
+    "FastGA": "/usr/local/bin/FastGA",
+    "GDBshow": "/usr/local/bin/GDBshow",
+    "GDBstat": "/usr/local/bin/GDBstat",
+    "GDBtoFA": "/usr/local/bin/GDBtoFA",
+    "GIXcp": "/usr/local/bin/GIXcp",
+    "GIXmake": "/usr/local/bin/GIXmake",
+    "GIXmv": "/usr/local/bin/GIXmv",
+    "GIXrm": "/usr/local/bin/GIXrm",
+    "GIXshow": "/usr/local/bin/GIXshow",
+    "ONEview": "/usr/local/bin/ONEview",
+    "PAFtoALN": "/usr/local/bin/PAFtoALN",
+    "PAFtoPSL": "/usr/local/bin/PAFtoPSL"
+}
