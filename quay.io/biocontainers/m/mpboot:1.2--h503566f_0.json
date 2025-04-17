@@ -1,0 +1,4 @@
+{
+    "mpboot": "/usr/local/bin/mpboot",
+    "mpboot-avx": "/usr/local/bin/mpboot-avx"
+}
