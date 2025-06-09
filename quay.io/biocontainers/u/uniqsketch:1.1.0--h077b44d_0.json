@@ -1,0 +1,5 @@
+{
+    "comparesketch": "/usr/local/bin/comparesketch",
+    "querysketch": "/usr/local/bin/querysketch",
+    "uniqsketch": "/usr/local/bin/uniqsketch"
+}
