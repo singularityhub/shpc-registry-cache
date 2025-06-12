@@ -2511,6 +2511,7 @@
     "BaseTof.dll": 2,
     "BaselineFilter": 2,
     "BasicInfoPaser.py": 1,
+    "BeEM": 1,
     "BedAdd": 1,
     "BedAnnotateFreq": 1,
     "BedAnnotateFromBed": 1,
