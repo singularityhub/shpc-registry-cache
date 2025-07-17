@@ -1,0 +1,6 @@
+{
+    "dos2unix": "/usr/local/bin/dos2unix",
+    "mac2unix": "/usr/local/bin/mac2unix",
+    "unix2dos": "/usr/local/bin/unix2dos",
+    "unix2mac": "/usr/local/bin/unix2mac"
+}
