@@ -1,0 +1,8 @@
+{
+    "pdb2to3": "/usr/local/bin/pdb2to3",
+    "pkg-config": "/usr/local/bin/pkg-config",
+    "pkg-config.bin": "/usr/local/bin/pkg-config.bin",
+    "srsgen": "/usr/local/bin/srsgen",
+    "srsview": "/usr/local/bin/srsview",
+    "x86_64-conda-linux-gnu-pkg-config": "/usr/local/bin/x86_64-conda-linux-gnu-pkg-config"
+}
