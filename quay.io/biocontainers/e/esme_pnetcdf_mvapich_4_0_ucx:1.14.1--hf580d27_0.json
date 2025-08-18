@@ -1,0 +1,10 @@
+{
+    "cdfdiff": "/usr/local/bin/cdfdiff",
+    "ncmpidiff": "/usr/local/bin/ncmpidiff",
+    "ncmpidump": "/usr/local/bin/ncmpidump",
+    "ncmpigen": "/usr/local/bin/ncmpigen",
+    "ncoffsets": "/usr/local/bin/ncoffsets",
+    "ncvalidator": "/usr/local/bin/ncvalidator",
+    "pnetcdf-config": "/usr/local/bin/pnetcdf-config",
+    "pnetcdf_version": "/usr/local/bin/pnetcdf_version"
+}
