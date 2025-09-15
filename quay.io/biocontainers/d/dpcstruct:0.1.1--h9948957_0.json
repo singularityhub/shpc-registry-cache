@@ -1,0 +1,8 @@
+{
+    "dpcstruct": "/usr/local/bin/dpcstruct",
+    "dpcstruct-postfilters": "/usr/local/bin/dpcstruct-postfilters",
+    "dpcstruct-prefilters": "/usr/local/bin/dpcstruct-prefilters",
+    "dpcstruct-primarycluster": "/usr/local/bin/dpcstruct-primarycluster",
+    "dpcstruct-secondarycluster": "/usr/local/bin/dpcstruct-secondarycluster",
+    "dpcstruct-traceback": "/usr/local/bin/dpcstruct-traceback"
+}
