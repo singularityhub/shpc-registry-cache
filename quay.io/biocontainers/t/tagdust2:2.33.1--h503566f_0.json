@@ -1,0 +1,7 @@
+{
+    "evalres": "/usr/local/bin/evalres",
+    "merge": "/usr/local/bin/merge",
+    "rename_qiime": "/usr/local/bin/rename_qiime",
+    "simreads": "/usr/local/bin/simreads",
+    "tagdust": "/usr/local/bin/tagdust"
+}
