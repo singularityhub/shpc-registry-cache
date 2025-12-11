@@ -1,0 +1,6 @@
+{
+    "c_rehash": "/usr/local/bin/c_rehash",
+    "dartunifrac-cuda": "/usr/local/bin/dartunifrac-cuda",
+    "openssl": "/usr/local/bin/openssl",
+    "striped_unifrac": "/usr/local/bin/striped_unifrac"
+}
