@@ -1,0 +1,5 @@
+{
+    "kmindex": "/usr/local/bin/kmindex",
+    "kmindex-server": "/usr/local/bin/kmindex-server",
+    "kmtricks": "/usr/local/bin/kmtricks"
+}
