@@ -1,0 +1,9 @@
+{
+    "dart": "/usr/local/bin/dart",
+    "unzstd": "/usr/local/bin/unzstd",
+    "zstd": "/usr/local/bin/zstd",
+    "zstdcat": "/usr/local/bin/zstdcat",
+    "zstdgrep": "/usr/local/bin/zstdgrep",
+    "zstdless": "/usr/local/bin/zstdless",
+    "zstdmt": "/usr/local/bin/zstdmt"
+}
