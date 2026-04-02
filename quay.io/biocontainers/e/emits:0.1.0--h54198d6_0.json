@@ -1,0 +1,8 @@
+{
+    "emits": "/usr/local/bin/emits",
+    "k8": "/usr/local/bin/k8",
+    "minimap2": "/usr/local/bin/minimap2",
+    "paftools.js": "/usr/local/bin/paftools.js",
+    "sdust": "/usr/local/bin/sdust",
+    "x86_64-conda-linux-gnu.cfg": "/usr/local/bin/x86_64-conda-linux-gnu.cfg"
+}
