@@ -1,0 +1,17 @@
+{
+    "fc-cache": "/usr/local/bin/fc-cache",
+    "fc-cat": "/usr/local/bin/fc-cat",
+    "fc-conflist": "/usr/local/bin/fc-conflist",
+    "fc-list": "/usr/local/bin/fc-list",
+    "fc-match": "/usr/local/bin/fc-match",
+    "fc-pattern": "/usr/local/bin/fc-pattern",
+    "fc-query": "/usr/local/bin/fc-query",
+    "fc-scan": "/usr/local/bin/fc-scan",
+    "fc-validate": "/usr/local/bin/fc-validate",
+    "freetype-config": "/usr/local/bin/freetype-config",
+    "libpng-config": "/usr/local/bin/libpng-config",
+    "libpng16-config": "/usr/local/bin/libpng16-config",
+    "png-fix-itxt": "/usr/local/bin/png-fix-itxt",
+    "pngfix": "/usr/local/bin/pngfix",
+    "rustqc": "/usr/local/bin/rustqc"
+}
