@@ -1,0 +1,4 @@
+{
+    "benchmark": "/usr/local/bin/benchmark",
+    "chaintools": "/usr/local/bin/chaintools"
+}
