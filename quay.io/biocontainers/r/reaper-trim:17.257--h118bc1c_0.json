@@ -1,0 +1,6 @@
+{
+    "minion": "/usr/local/bin/minion",
+    "reaper": "/usr/local/bin/reaper",
+    "swan": "/usr/local/bin/swan",
+    "tally": "/usr/local/bin/tally"
+}
