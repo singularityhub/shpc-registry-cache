@@ -19,9 +19,8 @@ jobs:
     - name: Derive BioContainers List
       run: |
         export PATH="/usr/share/miniconda/bin:$PATH"
-        source activate shpc
-        pip install -r .github/scripts/dev-requirements.txt
-        python .github/scripts/get_biocontainers.py /tmp/biocontainers.txt
+        conda run -n shpc pip install -r .github/scripts/dev-requirements.txt
+        conda run -n shpc python .github/scripts/get_biocontainers.py /tmp/biocontainers.txt
         head /tmp/biocontainers.txt
 
     - name: Make Space
