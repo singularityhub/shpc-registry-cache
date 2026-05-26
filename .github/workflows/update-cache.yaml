@@ -1,6 +1,7 @@
 name: Update Cache
 
 on:
+  pull_request: []
   workflow_dispatch:
   schedule:
   # Weekly, monday and thursday
