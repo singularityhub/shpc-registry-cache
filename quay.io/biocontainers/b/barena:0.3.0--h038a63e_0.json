@@ -1,0 +1,6 @@
+{
+    "barena": "/usr/local/bin/barena",
+    "pcre-config": "/usr/local/bin/pcre-config",
+    "pcregrep": "/usr/local/bin/pcregrep",
+    "pcretest": "/usr/local/bin/pcretest"
+}

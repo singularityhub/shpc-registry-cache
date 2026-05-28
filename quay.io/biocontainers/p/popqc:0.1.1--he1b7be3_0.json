@@ -1,0 +1,13 @@
+{
+    "lz4": "/usr/local/bin/lz4",
+    "lz4c": "/usr/local/bin/lz4c",
+    "lz4cat": "/usr/local/bin/lz4cat",
+    "popqc": "/usr/local/bin/popqc",
+    "unlz4": "/usr/local/bin/unlz4",
+    "unzstd": "/usr/local/bin/unzstd",
+    "zstd": "/usr/local/bin/zstd",
+    "zstdcat": "/usr/local/bin/zstdcat",
+    "zstdgrep": "/usr/local/bin/zstdgrep",
+    "zstdless": "/usr/local/bin/zstdless",
+    "zstdmt": "/usr/local/bin/zstdmt"
+}
