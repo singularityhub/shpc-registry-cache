@@ -1,0 +1,8 @@
+{
+    "abpoa": "/usr/local/bin/abpoa",
+    "dtr": "/usr/local/bin/dtr",
+    "spoa": "/usr/local/bin/spoa",
+    "te-discover": "/usr/local/bin/te-discover",
+    "te-refine": "/usr/local/bin/te-refine",
+    "te-seed": "/usr/local/bin/te-seed"
+}
