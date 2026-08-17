@@ -1,0 +1,14 @@
+{
+    "derb": "/usr/local/bin/derb",
+    "genbrk": "/usr/local/bin/genbrk",
+    "gencfu": "/usr/local/bin/gencfu",
+    "gencnval": "/usr/local/bin/gencnval",
+    "gendict": "/usr/local/bin/gendict",
+    "genrb": "/usr/local/bin/genrb",
+    "icu-config": "/usr/local/bin/icu-config",
+    "icuexportdata": "/usr/local/bin/icuexportdata",
+    "icuinfo": "/usr/local/bin/icuinfo",
+    "makeconv": "/usr/local/bin/makeconv",
+    "pkgdata": "/usr/local/bin/pkgdata",
+    "proteomiqon-psmbasedquantificationtims": "/usr/local/bin/proteomiqon-psmbasedquantificationtims"
+}
