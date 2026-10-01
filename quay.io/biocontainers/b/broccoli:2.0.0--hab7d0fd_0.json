@@ -1,0 +1,18 @@
+{
+    "FastTree": "/usr/local/bin/FastTree",
+    "FastTreeMP": "/usr/local/bin/FastTreeMP",
+    "broccoli": "/usr/local/bin/broccoli",
+    "derb": "/usr/local/bin/derb",
+    "diamond": "/usr/local/bin/diamond",
+    "fasttree": "/usr/local/bin/fasttree",
+    "genbrk": "/usr/local/bin/genbrk",
+    "gencfu": "/usr/local/bin/gencfu",
+    "gencnval": "/usr/local/bin/gencnval",
+    "gendict": "/usr/local/bin/gendict",
+    "genrb": "/usr/local/bin/genrb",
+    "icu-config": "/usr/local/bin/icu-config",
+    "icuexportdata": "/usr/local/bin/icuexportdata",
+    "icuinfo": "/usr/local/bin/icuinfo",
+    "makeconv": "/usr/local/bin/makeconv",
+    "pkgdata": "/usr/local/bin/pkgdata"
+}
