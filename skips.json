@@ -468,6 +468,7 @@
     "quay.io/biocontainers/ucsc-chainstitchid",
     "quay.io/biocontainers/ucsc-chainswap",
     "quay.io/biocontainers/ucsc-chaintoaxt",
+    "quay.io/biocontainers/ucsc-chaintobigchain",
     "quay.io/biocontainers/ucsc-chaintopsl",
     "quay.io/biocontainers/ucsc-chaintopslbasic",
     "quay.io/biocontainers/ucsc-checkagpandfa",
