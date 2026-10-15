@@ -1,0 +1,6 @@
+{
+    "gdbmask": "/usr/local/bin/gdbmask",
+    "svfind": "/usr/local/bin/svfind",
+    "taco": "/usr/local/bin/taco",
+    "tanbed": "/usr/local/bin/tanbed"
+}
